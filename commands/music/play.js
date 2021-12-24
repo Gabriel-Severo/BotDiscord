@@ -12,6 +12,7 @@ module.exports = class PlayCommand extends Command {
       group: 'music',
       memberName: 'play',
       description: 'Toca uma música ou uma playlist',
+      aliases: ['p'],
       args: [
         {
           key: 'query',
@@ -179,7 +180,7 @@ module.exports = class PlayCommand extends Command {
       .setThumbnail(playlist.thumbnail)
       .addField(
         pt_br.estimatedtoplay,
-        estimated === '0:00' ? pt_br.nowtext : estimated
+        estimated === '00:00' ? pt_br.nowtext : estimated
       )
       .addField(
         pt_br.queuepositiontext,

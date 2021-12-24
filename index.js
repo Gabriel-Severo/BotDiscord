@@ -4,6 +4,7 @@ const { Structures } = require('discord.js');
 const path = require('path');
 const { contar } = require('./services/contador');
 const minecraft = require('./services/minecraft');
+const { ClientRequest } = require('http');
 
 Structures.extend('Guild', (Guild) => {
   class MusicGuild extends Guild {
@@ -47,8 +48,8 @@ client.registry
 
 client.on('ready', () => {
   console.log(`${client.user.tag}`);
-  minecraft(client);
-  contar(client);
+  //minecraft(client);
+  //contar(client);
 });
 
 //client.on('debug', console.log);

@@ -1,5 +1,5 @@
 const simpleYT = require('simpleyt');
-const playlists = require('yt-playlist-scraper');
+const playlists = require('ytfps');
 const url = require('url');
 const { formatDuration } = require('./util');
 
@@ -23,14 +23,15 @@ function constructVideoObj(video) {
   };
 }
 function constructPlaylistVideoObj(video) {
-  const duration = constructDurationObj(video.duration);
+  const durationInSeconds = video.milis_length / 1000;
+  const duration = constructDurationObj(durationInSeconds)
   return {
     title: video.title,
-    author: video.channel.title,
-    thumbnail: video.thumbnails.best.url,
-    url: `https://www.youtube.com/watch?v=${video.id}`,
+    author: video.author.name,
+    thumbnail: video.thumbnail_url,
+    url: video.url,
     duration,
-    length: formatDuration(duration)
+    length: video.length
   };
 }
 module.exports = async function search(link) {
@@ -45,7 +46,7 @@ module.exports = async function search(link) {
     }
     return {
       url: 'https://www.youtube.com/playlist?list=' + playlist.id,
-      thumbnail: playlist.thumbnails.best.url,
+      thumbnail: playlist.thumbnail_url,
       title: playlist.title,
       videos: playlist.videos.map((video) => {
         return constructPlaylistVideoObj(video);
