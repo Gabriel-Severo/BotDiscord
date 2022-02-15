@@ -3,83 +3,72 @@
 
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.14.5":
-  "integrity" "sha512-2IAnmn8zbvC/jKYhq5Ki9I+DwjlrtMPUCH/CpHvqI4dNnlwHwsxoIhlc8WcYY5LSYknXQtAlFYuHfqAFCvQ4Wg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/code-frame/-/code-frame-7.15.8.tgz"
-  "version" "7.15.8"
+  version "7.15.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/code-frame/-/code-frame-7.15.8.tgz"
   dependencies:
     "@babel/highlight" "^7.14.5"
 
 "@babel/generator@^7.15.4":
-  "integrity" "sha512-ECmAKstXbp1cvpTTZciZCgfOt6iN64lR0d+euv3UZisU5awfRawOvg07Utn/qBGuH4bRIEZKrA/4LzZyXhZr8g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/generator/-/generator-7.15.8.tgz"
-  "version" "7.15.8"
+  version "7.15.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/generator/-/generator-7.15.8.tgz"
   dependencies:
     "@babel/types" "^7.15.6"
-    "jsesc" "^2.5.1"
-    "source-map" "^0.5.0"
+    jsesc "^2.5.1"
+    source-map "^0.5.0"
 
 "@babel/helper-function-name@^7.15.4":
-  "integrity" "sha512-Z91cOMM4DseLIGOnog+Z8OI6YseR9bua+HpvLAQ2XayUGU+neTtX+97caALaLdyu53I/fjhbeCnWnRH1O3jFOw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-function-name/-/helper-function-name-7.15.4.tgz"
-  "version" "7.15.4"
+  version "7.15.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-function-name/-/helper-function-name-7.15.4.tgz"
   dependencies:
     "@babel/helper-get-function-arity" "^7.15.4"
     "@babel/template" "^7.15.4"
     "@babel/types" "^7.15.4"
 
 "@babel/helper-get-function-arity@^7.15.4":
-  "integrity" "sha512-1/AlxSF92CmGZzHnC515hm4SirTxtpDnLEJ0UyEMgTMZN+6bxXKg04dKhiRx5Enel+SUA1G1t5Ed/yQia0efrA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-get-function-arity/-/helper-get-function-arity-7.15.4.tgz"
-  "version" "7.15.4"
+  version "7.15.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-get-function-arity/-/helper-get-function-arity-7.15.4.tgz"
   dependencies:
     "@babel/types" "^7.15.4"
 
 "@babel/helper-hoist-variables@^7.15.4":
-  "integrity" "sha512-VTy085egb3jUGVK9ycIxQiPbquesq0HUQ+tPO0uv5mPEBZipk+5FkRKiWq5apuyTE9FUrjENB0rCf8y+n+UuhA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-hoist-variables/-/helper-hoist-variables-7.15.4.tgz"
-  "version" "7.15.4"
+  version "7.15.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-hoist-variables/-/helper-hoist-variables-7.15.4.tgz"
   dependencies:
     "@babel/types" "^7.15.4"
 
 "@babel/helper-split-export-declaration@^7.15.4":
-  "integrity" "sha512-HsFqhLDZ08DxCpBdEVtKmywj6PQbwnF6HHybur0MAnkAKnlS6uHkwnmRIkElB2Owpfb4xL4NwDmDLFubueDXsw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-split-export-declaration/-/helper-split-export-declaration-7.15.4.tgz"
-  "version" "7.15.4"
+  version "7.15.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-split-export-declaration/-/helper-split-export-declaration-7.15.4.tgz"
   dependencies:
     "@babel/types" "^7.15.4"
 
 "@babel/helper-validator-identifier@^7.14.5", "@babel/helper-validator-identifier@^7.14.9":
-  "integrity" "sha512-K4JvCtQqad9OY2+yTU8w+E82ywk/fe+ELNlt1G8z3bVGlZfn/hOcQQsUhGhW/N+tb3fxK800wLtKOE/aM0m72w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-validator-identifier/-/helper-validator-identifier-7.15.7.tgz"
-  "version" "7.15.7"
+  version "7.15.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/helper-validator-identifier/-/helper-validator-identifier-7.15.7.tgz"
 
 "@babel/highlight@^7.14.5":
-  "integrity" "sha512-qf9u2WFWVV0MppaL877j2dBtQIDgmidgjGk5VIMw3OadXvYaXn66U1BFlH2t4+t3i+8PhedppRv+i40ABzd+gg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/highlight/-/highlight-7.14.5.tgz"
-  "version" "7.14.5"
+  version "7.14.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/highlight/-/highlight-7.14.5.tgz"
   dependencies:
     "@babel/helper-validator-identifier" "^7.14.5"
-    "chalk" "^2.0.0"
-    "js-tokens" "^4.0.0"
+    chalk "^2.0.0"
+    js-tokens "^4.0.0"
 
 "@babel/parser@^7.15.4", "@babel/parser@^7.7.0":
-  "integrity" "sha512-BRYa3wcQnjS/nqI8Ac94pYYpJfojHVvVXJ97+IDCImX4Jc8W8Xv1+47enbruk+q1etOpsQNwnfFcNGw+gtPGxA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/parser/-/parser-7.15.8.tgz"
-  "version" "7.15.8"
+  version "7.15.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/parser/-/parser-7.15.8.tgz"
 
 "@babel/template@^7.15.4":
-  "integrity" "sha512-UgBAfEa1oGuYgDIPM2G+aHa4Nlo9Lh6mGD2bDBGMTbYnc38vulXPuC1MGjYILIEmlwl6Rd+BPR9ee3gm20CBtg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/template/-/template-7.15.4.tgz"
-  "version" "7.15.4"
+  version "7.15.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/template/-/template-7.15.4.tgz"
   dependencies:
     "@babel/code-frame" "^7.14.5"
     "@babel/parser" "^7.15.4"
     "@babel/types" "^7.15.4"
 
 "@babel/traverse@^7.7.0":
-  "integrity" "sha512-W6lQD8l4rUbQR/vYgSuCAE75ADyyQvOpFVsvPPdkhf6lATXAsQIG9YdtOcu8BB1dZ0LKu+Zo3c1wEcbKeuhdlA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/traverse/-/traverse-7.15.4.tgz"
-  "version" "7.15.4"
+  version "7.15.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/traverse/-/traverse-7.15.4.tgz"
   dependencies:
     "@babel/code-frame" "^7.14.5"
     "@babel/generator" "^7.15.4"
@@ -88,2056 +77,1690 @@
     "@babel/helper-split-export-declaration" "^7.15.4"
     "@babel/parser" "^7.15.4"
     "@babel/types" "^7.15.4"
-    "debug" "^4.1.0"
-    "globals" "^11.1.0"
+    debug "^4.1.0"
+    globals "^11.1.0"
 
 "@babel/types@^7.15.4", "@babel/types@^7.15.6", "@babel/types@^7.7.0":
-  "integrity" "sha512-BPU+7QhqNjmWyDO0/vitH/CuhpV8ZmK1wpKva8nuyNF5MJfuRNWMc+hc14+u9xT93kvykMdncrJT19h74uB1Ig=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/types/-/types-7.15.6.tgz"
-  "version" "7.15.6"
+  version "7.15.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@babel/types/-/types-7.15.6.tgz"
   dependencies:
     "@babel/helper-validator-identifier" "^7.14.9"
-    "to-fast-properties" "^2.0.0"
+    to-fast-properties "^2.0.0"
 
 "@discordjs/collection@^0.1.6":
-  "integrity" "sha512-utRNxnd9kSS2qhyivo9lMlt5qgAUasH2gb7BEOn6p0efFh24gjGomHzWKMAPn2hEReOPQZCJaRKoURwRotKucQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/collection/-/collection-0.1.6.tgz"
-  "version" "0.1.6"
+  version "0.1.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/collection/-/collection-0.1.6.tgz"
 
 "@discordjs/form-data@^3.0.1":
-  "integrity" "sha512-ZfFsbgEXW71Rw/6EtBdrP5VxBJy4dthyC0tpQKGKmYFImlmmrykO14Za+BiIVduwjte0jXEBlhSKf0MWbFp9Eg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/form-data/-/form-data-3.0.1.tgz"
-  "version" "3.0.1"
+  version "3.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/form-data/-/form-data-3.0.1.tgz"
   dependencies:
-    "asynckit" "^0.4.0"
-    "combined-stream" "^1.0.8"
-    "mime-types" "^2.1.12"
+    asynckit "^0.4.0"
+    combined-stream "^1.0.8"
+    mime-types "^2.1.12"
 
-"@discordjs/node-pre-gyp@^0.4.0", "@discordjs/node-pre-gyp@^0.4.1":
-  "integrity" "sha512-PLYLPG3R+m9QlMROOjdy2htQq54g6f9vRb1xPfZ97CL53yj0uNTfpB/jtY/AXY6OKNtZtrre5SKjei8Hcc44HQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/node-pre-gyp/-/node-pre-gyp-0.4.1.tgz"
-  "version" "0.4.1"
+"@discordjs/node-pre-gyp@^0.4.1":
+  version "0.4.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/node-pre-gyp/-/node-pre-gyp-0.4.1.tgz"
   dependencies:
-    "detect-libc" "^1.0.3"
-    "https-proxy-agent" "^5.0.0"
-    "make-dir" "^3.1.0"
-    "node-fetch" "^2.6.1"
-    "nopt" "^5.0.0"
-    "npmlog" "^5.0.0"
-    "rimraf" "^3.0.2"
-    "semver" "^7.3.5"
-    "tar" "^6.1.8"
-
-"@discordjs/opus@^0.5.0":
-  "integrity" "sha512-IQhCwCy2WKXLe+qkOkwO1Wjgk20uqeAbqM62tCbzIqbTsXX4YAge8Me9RFnI77Lx+UTkgm4rSVM3VPVdS/GsUw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/opus/-/opus-0.5.3.tgz"
-  "version" "0.5.3"
-  dependencies:
-    "@discordjs/node-pre-gyp" "^0.4.0"
-    "node-addon-api" "^3.2.1"
+    detect-libc "^1.0.3"
+    https-proxy-agent "^5.0.0"
+    make-dir "^3.1.0"
+    node-fetch "^2.6.1"
+    nopt "^5.0.0"
+    npmlog "^5.0.0"
+    rimraf "^3.0.2"
+    semver "^7.3.5"
+    tar "^6.1.8"
 
 "@discordjs/opus@0.6.0":
-  "integrity" "sha512-Xuw8OP9BJgObEBs/SgxixnKj+y+w9st45uOAJ+cGegUGwxAIR4J7sQt3Y1J3G9SGGe82+MTxvy7sg1/QUkigcg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/opus/-/opus-0.6.0.tgz"
-  "version" "0.6.0"
+  version "0.6.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@discordjs/opus/-/opus-0.6.0.tgz"
   dependencies:
     "@discordjs/node-pre-gyp" "^0.4.1"
-    "node-addon-api" "^4.0.0"
+    node-addon-api "^4.0.0"
 
 "@eslint/eslintrc@^1.0.3":
-  "integrity" "sha512-DHI1wDPoKCBPoLZA3qDR91+3te/wDSc1YhKg3jR8NxKKRJq2hwHwcWv31cSwSYvIBrmbENoYMWcenW8uproQqg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@eslint/eslintrc/-/eslintrc-1.0.3.tgz"
-  "version" "1.0.3"
+  version "1.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@eslint/eslintrc/-/eslintrc-1.0.3.tgz"
   dependencies:
-    "ajv" "^6.12.4"
-    "debug" "^4.3.2"
-    "espree" "^9.0.0"
-    "globals" "^13.9.0"
-    "ignore" "^4.0.6"
-    "import-fresh" "^3.2.1"
-    "js-yaml" "^3.13.1"
-    "minimatch" "^3.0.4"
-    "strip-json-comments" "^3.1.1"
+    ajv "^6.12.4"
+    debug "^4.3.2"
+    espree "^9.0.0"
+    globals "^13.9.0"
+    ignore "^4.0.6"
+    import-fresh "^3.2.1"
+    js-yaml "^3.13.1"
+    minimatch "^3.0.4"
+    strip-json-comments "^3.1.1"
 
 "@humanwhocodes/config-array@^0.6.0":
-  "integrity" "sha512-JQlEKbcgEUjBFhLIF4iqM7u/9lwgHRBcpHrmUNCALK0Q3amXN6lxdoXLnF0sm11E9VqTmBALR87IlUg1bZ8A9A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@humanwhocodes/config-array/-/config-array-0.6.0.tgz"
-  "version" "0.6.0"
+  version "0.6.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@humanwhocodes/config-array/-/config-array-0.6.0.tgz"
   dependencies:
     "@humanwhocodes/object-schema" "^1.2.0"
-    "debug" "^4.1.1"
-    "minimatch" "^3.0.4"
+    debug "^4.1.1"
+    minimatch "^3.0.4"
 
 "@humanwhocodes/object-schema@^1.2.0":
-  "integrity" "sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz"
-  "version" "1.2.0"
+  version "1.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz"
 
 "@sindresorhus/is@^0.14.0":
-  "integrity" "sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@sindresorhus/is/-/is-0.14.0.tgz"
-  "version" "0.14.0"
+  version "0.14.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@sindresorhus/is/-/is-0.14.0.tgz"
 
 "@szmarczak/http-timer@^1.1.2":
-  "integrity" "sha512-XIB2XbzHTN6ieIjfIMV9hlVcfPU26s2vafYWQcZHWXHOxiaRZYEDKEwdl129Zyg50+foYV2jCgtrqSA6qNuNSA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@szmarczak/http-timer/-/http-timer-1.1.2.tgz"
-  "version" "1.1.2"
+  version "1.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@szmarczak/http-timer/-/http-timer-1.1.2.tgz"
   dependencies:
-    "defer-to-connect" "^1.0.1"
+    defer-to-connect "^1.0.1"
 
 "@types/node@^15.12.2":
-  "integrity" "sha512-qjd88DrCxupx/kJD5yQgZdcYKZKSIGBVDIBE1/LTGcNm3d2Np/jxojkdePDdfnBHJc5W7vSMpbJ1aB7p/Py69A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/@types/node/-/node-15.14.9.tgz"
-  "version" "15.14.9"
+  version "15.14.9"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/@types/node/-/node-15.14.9.tgz"
 
-"abbrev@1":
-  "integrity" "sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/abbrev/-/abbrev-1.1.1.tgz"
-  "version" "1.1.1"
+abbrev@1:
+  version "1.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/abbrev/-/abbrev-1.1.1.tgz"
 
-"abort-controller@^3.0.0":
-  "integrity" "sha512-h8lQ8tacZYnR3vNQTgibj+tODHI5/+l06Au2Pcriv/Gmet0eaj4TwWH41sO9wnHDiQsEj19q0drzdWdeAHtweg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/abort-controller/-/abort-controller-3.0.0.tgz"
-  "version" "3.0.0"
+abort-controller@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/abort-controller/-/abort-controller-3.0.0.tgz"
   dependencies:
-    "event-target-shim" "^5.0.0"
+    event-target-shim "^5.0.0"
 
-"acorn-jsx@^5.3.1":
-  "integrity" "sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
-  "version" "5.3.2"
+acorn-jsx@^5.3.1:
+  version "5.3.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/acorn-jsx/-/acorn-jsx-5.3.2.tgz"
 
-"acorn@^6.0.0 || ^7.0.0 || ^8.0.0", "acorn@^8.5.0":
-  "integrity" "sha512-yXbYeFy+jUuYd3/CDcg2NkIYE991XYX/bje7LmjJigUciaeO1JR4XxXgCIV1/Zc/dRuFEyw1L0pbA+qynJkW5Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/acorn/-/acorn-8.5.0.tgz"
-  "version" "8.5.0"
+acorn@^8.5.0:
+  version "8.5.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/acorn/-/acorn-8.5.0.tgz"
 
-"agent-base@6":
-  "integrity" "sha512-RZNwNclF7+MS/8bDg70amg32dyeZGZxiDuQmZxKLAlQjr3jGyLx+4Kkk58UO7D2QdgFIQCovuSuZESne6RG6XQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/agent-base/-/agent-base-6.0.2.tgz"
-  "version" "6.0.2"
+agent-base@6:
+  version "6.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/agent-base/-/agent-base-6.0.2.tgz"
   dependencies:
-    "debug" "4"
+    debug "4"
 
-"ajv@^6.10.0", "ajv@^6.12.4":
-  "integrity" "sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ajv/-/ajv-6.12.6.tgz"
-  "version" "6.12.6"
+ajv@^6.10.0, ajv@^6.12.4:
+  version "6.12.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ajv/-/ajv-6.12.6.tgz"
   dependencies:
-    "fast-deep-equal" "^3.1.1"
-    "fast-json-stable-stringify" "^2.0.0"
-    "json-schema-traverse" "^0.4.1"
-    "uri-js" "^4.2.2"
+    fast-deep-equal "^3.1.1"
+    fast-json-stable-stringify "^2.0.0"
+    json-schema-traverse "^0.4.1"
+    uri-js "^4.2.2"
 
-"ansi-align@^3.0.0":
-  "integrity" "sha512-IOfwwBF5iczOjp/WeY4YxyjqAFMQoZufdQWDd19SEExbVLNXqvpzSJ/M7Za4/sCPmQ0+GRquoA7bGcINcxew6w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-align/-/ansi-align-3.0.1.tgz"
-  "version" "3.0.1"
+ansi-align@^3.0.0:
+  version "3.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-align/-/ansi-align-3.0.1.tgz"
   dependencies:
-    "string-width" "^4.1.0"
+    string-width "^4.1.0"
 
-"ansi-colors@^4.1.1":
-  "integrity" "sha512-JoX0apGbHaUJBNl6yF+p6JAFYZ666/hhCGKN5t9QFjbJQKUU/g8MNbFDbvfrgKXvI1QpZplPOnwIo99lX/AAmA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-colors/-/ansi-colors-4.1.1.tgz"
-  "version" "4.1.1"
+ansi-colors@^4.1.1:
+  version "4.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-colors/-/ansi-colors-4.1.1.tgz"
 
-"ansi-regex@^3.0.0":
-  "integrity" "sha1-7QMXwyIGT3lGbAKWa922Bas32Zg="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-regex/-/ansi-regex-3.0.0.tgz"
-  "version" "3.0.0"
+ansi-regex@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-regex/-/ansi-regex-3.0.0.tgz"
 
-"ansi-regex@^5.0.1":
-  "integrity" "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-regex/-/ansi-regex-5.0.1.tgz"
-  "version" "5.0.1"
+ansi-regex@^5.0.1:
+  version "5.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-regex/-/ansi-regex-5.0.1.tgz"
 
-"ansi-styles@^3.2.1":
-  "integrity" "sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-3.2.1.tgz"
-  "version" "3.2.1"
+ansi-styles@^3.2.1:
+  version "3.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-3.2.1.tgz"
   dependencies:
-    "color-convert" "^1.9.0"
+    color-convert "^1.9.0"
 
-"ansi-styles@^4.0.0":
-  "integrity" "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-4.3.0.tgz"
-  "version" "4.3.0"
+ansi-styles@^4.0.0, ansi-styles@^4.1.0:
+  version "4.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-4.3.0.tgz"
   dependencies:
-    "color-convert" "^2.0.1"
+    color-convert "^2.0.1"
 
-"ansi-styles@^4.1.0":
-  "integrity" "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-4.3.0.tgz"
-  "version" "4.3.0"
+ansi-styles@^5.0.0:
+  version "5.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-5.2.0.tgz"
+
+anymatch@~3.1.2:
+  version "3.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/anymatch/-/anymatch-3.1.2.tgz"
   dependencies:
-    "color-convert" "^2.0.1"
-
-"ansi-styles@^5.0.0":
-  "integrity" "sha512-Cxwpt2SfTzTtXcfOlzGEee8O+c+MmUgGrNiBcXnuWxuFJHe6a5Hz7qwhwe5OgaSYI0IJvkLqWX1ASG+cJOkEiA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ansi-styles/-/ansi-styles-5.2.0.tgz"
-  "version" "5.2.0"
-
-"anymatch@~3.1.2":
-  "integrity" "sha512-P43ePfOAIupkguHUycrc4qJ9kz8ZiuOUijaETwX7THt0Y/GNK7v0aa8rY816xWjZ7rJdA5XdMcpVFTKMq+RvWg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/anymatch/-/anymatch-3.1.2.tgz"
-  "version" "3.1.2"
-  dependencies:
-    "normalize-path" "^3.0.0"
-    "picomatch" "^2.0.4"
+    normalize-path "^3.0.0"
+    picomatch "^2.0.4"
 
 "aproba@^1.0.3 || ^2.0.0":
-  "integrity" "sha512-lYe4Gx7QT+MKGbDsA+Z+he/Wtef0BiwDOlK/XkBrdfsh9J/jPPXbX0tE9x9cl27Tmu5gg3QUbUrQYa/y+KOHPQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/aproba/-/aproba-2.0.0.tgz"
-  "version" "2.0.0"
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/aproba/-/aproba-2.0.0.tgz"
 
-"are-we-there-yet@^2.0.0":
-  "integrity" "sha512-Ci/qENmwHnsYo9xKIcUJN5LeDKdJ6R1Z1j9V/J5wyq8nh/mYPEpIKJbBZXtZjG04HiK7zV/p6Vs9952MrMeUIw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/are-we-there-yet/-/are-we-there-yet-2.0.0.tgz"
-  "version" "2.0.0"
+are-we-there-yet@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/are-we-there-yet/-/are-we-there-yet-2.0.0.tgz"
   dependencies:
-    "delegates" "^1.0.0"
-    "readable-stream" "^3.6.0"
+    delegates "^1.0.0"
+    readable-stream "^3.6.0"
 
-"argparse@^1.0.7":
-  "integrity" "sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/argparse/-/argparse-1.0.10.tgz"
-  "version" "1.0.10"
+argparse@^1.0.7:
+  version "1.0.10"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/argparse/-/argparse-1.0.10.tgz"
   dependencies:
-    "sprintf-js" "~1.0.2"
+    sprintf-js "~1.0.2"
 
-"argparse@^2.0.1":
-  "integrity" "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/argparse/-/argparse-2.0.1.tgz"
-  "version" "2.0.1"
+argparse@^2.0.1:
+  version "2.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/argparse/-/argparse-2.0.1.tgz"
 
-"asynckit@^0.4.0":
-  "integrity" "sha1-x57Zf380y48robyXkLzDZkdLS3k="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/asynckit/-/asynckit-0.4.0.tgz"
-  "version" "0.4.0"
+asynckit@^0.4.0:
+  version "0.4.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/asynckit/-/asynckit-0.4.0.tgz"
 
-"axios@^0.21.1":
-  "integrity" "sha512-ut5vewkiu8jjGBdqpM44XxjuCjq9LAKeHVmoVfHVzy8eHgxxq8SbAVQNovDA8mVi05kP0Ea/n/UzcSHcTJQfNg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/axios/-/axios-0.21.4.tgz"
-  "version" "0.21.4"
+axios@^0.21.1:
+  version "0.21.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/axios/-/axios-0.21.4.tgz"
   dependencies:
-    "follow-redirects" "^1.14.0"
+    follow-redirects "^1.14.0"
 
-"babel-eslint@^10.1.0":
-  "integrity" "sha512-ifWaTHQ0ce+448CYop8AdrQiBsGrnC+bMgfyKFdi6EsPLTAWG+QfyDeM6OH+FmWnKvEq5NnBMLvlBUPKQZoDSg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/babel-eslint/-/babel-eslint-10.1.0.tgz"
-  "version" "10.1.0"
+babel-eslint@^10.1.0:
+  version "10.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/babel-eslint/-/babel-eslint-10.1.0.tgz"
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/parser" "^7.7.0"
     "@babel/traverse" "^7.7.0"
     "@babel/types" "^7.7.0"
-    "eslint-visitor-keys" "^1.0.0"
-    "resolve" "^1.12.0"
+    eslint-visitor-keys "^1.0.0"
+    resolve "^1.12.0"
 
-"balanced-match@^1.0.0":
-  "integrity" "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/balanced-match/-/balanced-match-1.0.2.tgz"
-  "version" "1.0.2"
+balanced-match@^1.0.0:
+  version "1.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/balanced-match/-/balanced-match-1.0.2.tgz"
 
-"binary-extensions@^2.0.0":
-  "integrity" "sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/binary-extensions/-/binary-extensions-2.2.0.tgz"
-  "version" "2.2.0"
+binary-extensions@^2.0.0:
+  version "2.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/binary-extensions/-/binary-extensions-2.2.0.tgz"
 
-"bindings@^1.5.0":
-  "integrity" "sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/bindings/-/bindings-1.5.0.tgz"
-  "version" "1.5.0"
+bindings@^1.5.0:
+  version "1.5.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/bindings/-/bindings-1.5.0.tgz"
   dependencies:
-    "file-uri-to-path" "1.0.0"
+    file-uri-to-path "1.0.0"
 
-"boxen@^5.0.0":
-  "integrity" "sha512-9gYgQKXx+1nP8mP7CzFyaUARhg7D3n1dF/FnErWmu9l6JvGpNUN278h0aSb+QjoiKSWG+iZ3uHrcqk0qrY9RQQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/boxen/-/boxen-5.1.2.tgz"
-  "version" "5.1.2"
+boxen@^5.0.0:
+  version "5.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/boxen/-/boxen-5.1.2.tgz"
   dependencies:
-    "ansi-align" "^3.0.0"
-    "camelcase" "^6.2.0"
-    "chalk" "^4.1.0"
-    "cli-boxes" "^2.2.1"
-    "string-width" "^4.2.2"
-    "type-fest" "^0.20.2"
-    "widest-line" "^3.1.0"
-    "wrap-ansi" "^7.0.0"
+    ansi-align "^3.0.0"
+    camelcase "^6.2.0"
+    chalk "^4.1.0"
+    cli-boxes "^2.2.1"
+    string-width "^4.2.2"
+    type-fest "^0.20.2"
+    widest-line "^3.1.0"
+    wrap-ansi "^7.0.0"
 
-"brace-expansion@^1.1.7":
-  "integrity" "sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/brace-expansion/-/brace-expansion-1.1.11.tgz"
-  "version" "1.1.11"
+brace-expansion@^1.1.7:
+  version "1.1.11"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/brace-expansion/-/brace-expansion-1.1.11.tgz"
   dependencies:
-    "balanced-match" "^1.0.0"
-    "concat-map" "0.0.1"
+    balanced-match "^1.0.0"
+    concat-map "0.0.1"
 
-"braces@~3.0.2":
-  "integrity" "sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/braces/-/braces-3.0.2.tgz"
-  "version" "3.0.2"
+braces@~3.0.2:
+  version "3.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/braces/-/braces-3.0.2.tgz"
   dependencies:
-    "fill-range" "^7.0.1"
+    fill-range "^7.0.1"
 
-"buffer-writer@2.0.0":
-  "integrity" "sha512-a7ZpuTZU1TRtnwyCNW3I5dc0wWNC3VR9S++Ewyk2HHZdrO3CQJqSpd+95Us590V6AL7JqUAH2IwZ/398PmNFgw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/buffer-writer/-/buffer-writer-2.0.0.tgz"
-  "version" "2.0.0"
+buffer-writer@2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/buffer-writer/-/buffer-writer-2.0.0.tgz"
 
-"bufferutil@^4.0.1", "bufferutil@^4.0.5":
-  "integrity" "sha512-HTm14iMQKK2FjFLRTM5lAVcyaUzOnqbPtesFIvREgXpJHdQm8bWS+GkQgIkfaBYRHuCnea7w8UVNfwiAQhlr9A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/bufferutil/-/bufferutil-4.0.5.tgz"
-  "version" "4.0.5"
+bufferutil@^4.0.5:
+  version "4.0.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/bufferutil/-/bufferutil-4.0.5.tgz"
   dependencies:
-    "node-gyp-build" "^4.3.0"
+    node-gyp-build "^4.3.0"
 
-"cacheable-request@^6.0.0":
-  "integrity" "sha512-Oj3cAGPCqOZX7Rz64Uny2GYAZNliQSqfbePrgAQ1wKAihYmCUnraBtJtKcGR4xz7wF+LoJC+ssFZvv5BgF9Igg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/cacheable-request/-/cacheable-request-6.1.0.tgz"
-  "version" "6.1.0"
+cacheable-request@^6.0.0:
+  version "6.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/cacheable-request/-/cacheable-request-6.1.0.tgz"
   dependencies:
-    "clone-response" "^1.0.2"
-    "get-stream" "^5.1.0"
-    "http-cache-semantics" "^4.0.0"
-    "keyv" "^3.0.0"
-    "lowercase-keys" "^2.0.0"
-    "normalize-url" "^4.1.0"
-    "responselike" "^1.0.2"
+    clone-response "^1.0.2"
+    get-stream "^5.1.0"
+    http-cache-semantics "^4.0.0"
+    keyv "^3.0.0"
+    lowercase-keys "^2.0.0"
+    normalize-url "^4.1.0"
+    responselike "^1.0.2"
 
-"callsites@^3.0.0":
-  "integrity" "sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/callsites/-/callsites-3.1.0.tgz"
-  "version" "3.1.0"
+callsites@^3.0.0:
+  version "3.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/callsites/-/callsites-3.1.0.tgz"
 
-"camelcase@^6.2.0":
-  "integrity" "sha512-c7wVvbw3f37nuobQNtgsgG9POC9qMbNuMQmTCqZv23b6MIz0fcYpBiOlv9gEN/hdLdnZTDQhg6e9Dq5M1vKvfg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/camelcase/-/camelcase-6.2.0.tgz"
-  "version" "6.2.0"
+camelcase@^6.2.0:
+  version "6.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/camelcase/-/camelcase-6.2.0.tgz"
 
-"chalk@^2.0.0":
-  "integrity" "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/chalk/-/chalk-2.4.2.tgz"
-  "version" "2.4.2"
+chalk@^2.0.0:
+  version "2.4.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/chalk/-/chalk-2.4.2.tgz"
   dependencies:
-    "ansi-styles" "^3.2.1"
-    "escape-string-regexp" "^1.0.5"
-    "supports-color" "^5.3.0"
+    ansi-styles "^3.2.1"
+    escape-string-regexp "^1.0.5"
+    supports-color "^5.3.0"
 
-"chalk@^4.0.0":
-  "integrity" "sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/chalk/-/chalk-4.1.2.tgz"
-  "version" "4.1.2"
+chalk@^4.0.0, chalk@^4.1.0:
+  version "4.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/chalk/-/chalk-4.1.2.tgz"
   dependencies:
-    "ansi-styles" "^4.1.0"
-    "supports-color" "^7.1.0"
+    ansi-styles "^4.1.0"
+    supports-color "^7.1.0"
 
-"chalk@^4.1.0":
-  "integrity" "sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/chalk/-/chalk-4.1.2.tgz"
-  "version" "4.1.2"
+chokidar@^3.2.2:
+  version "3.5.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/chokidar/-/chokidar-3.5.2.tgz"
   dependencies:
-    "ansi-styles" "^4.1.0"
-    "supports-color" "^7.1.0"
-
-"chokidar@^3.2.2":
-  "integrity" "sha512-ekGhOnNVPgT77r4K/U3GDhu+FQ2S8TnK/s2KbIGXi0SZWuwkZ2QNyfWdZW+TVfn84DpEP7rLeCt2UI6bJ8GwbQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/chokidar/-/chokidar-3.5.2.tgz"
-  "version" "3.5.2"
-  dependencies:
-    "anymatch" "~3.1.2"
-    "braces" "~3.0.2"
-    "glob-parent" "~5.1.2"
-    "is-binary-path" "~2.1.0"
-    "is-glob" "~4.0.1"
-    "normalize-path" "~3.0.0"
-    "readdirp" "~3.6.0"
+    anymatch "~3.1.2"
+    braces "~3.0.2"
+    glob-parent "~5.1.2"
+    is-binary-path "~2.1.0"
+    is-glob "~4.0.1"
+    normalize-path "~3.0.0"
+    readdirp "~3.6.0"
   optionalDependencies:
-    "fsevents" "~2.3.2"
+    fsevents "~2.3.2"
 
-"chownr@^2.0.0":
-  "integrity" "sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/chownr/-/chownr-2.0.0.tgz"
-  "version" "2.0.0"
+chownr@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/chownr/-/chownr-2.0.0.tgz"
 
-"ci-info@^2.0.0":
-  "integrity" "sha512-5tK7EtrZ0N+OLFMthtqOj4fI2Jeb88C4CAZPu25LDVUgXJ0A3Js4PMGqrn0JU1W0Mh1/Z8wZzYPxqUrXeBboCQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ci-info/-/ci-info-2.0.0.tgz"
-  "version" "2.0.0"
+ci-info@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ci-info/-/ci-info-2.0.0.tgz"
 
-"cli-boxes@^2.2.1":
-  "integrity" "sha512-y4coMcylgSCdVinjiDBuR8PCC2bLjyGTwEmPb9NHR/QaNU6EUOXcTY/s6VjGMD6ENSEaeQYHCY0GNGS5jfMwPw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/cli-boxes/-/cli-boxes-2.2.1.tgz"
-  "version" "2.2.1"
+cli-boxes@^2.2.1:
+  version "2.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/cli-boxes/-/cli-boxes-2.2.1.tgz"
 
-"clone-response@^1.0.2":
-  "integrity" "sha1-0dyXOSAxTfZ/vrlCI7TuNQI56Ws="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/clone-response/-/clone-response-1.0.2.tgz"
-  "version" "1.0.2"
+clone-response@^1.0.2:
+  version "1.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/clone-response/-/clone-response-1.0.2.tgz"
   dependencies:
-    "mimic-response" "^1.0.0"
+    mimic-response "^1.0.0"
 
-"color-convert@^1.9.0":
-  "integrity" "sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/color-convert/-/color-convert-1.9.3.tgz"
-  "version" "1.9.3"
+color-convert@^1.9.0:
+  version "1.9.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/color-convert/-/color-convert-1.9.3.tgz"
   dependencies:
-    "color-name" "1.1.3"
+    color-name "1.1.3"
 
-"color-convert@^2.0.1":
-  "integrity" "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/color-convert/-/color-convert-2.0.1.tgz"
-  "version" "2.0.1"
+color-convert@^2.0.1:
+  version "2.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/color-convert/-/color-convert-2.0.1.tgz"
   dependencies:
-    "color-name" "~1.1.4"
+    color-name "~1.1.4"
 
-"color-name@~1.1.4":
-  "integrity" "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/color-name/-/color-name-1.1.4.tgz"
-  "version" "1.1.4"
+color-name@1.1.3:
+  version "1.1.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/color-name/-/color-name-1.1.3.tgz"
 
-"color-name@1.1.3":
-  "integrity" "sha1-p9BVi9icQveV3UIyj3QIMcpTvCU="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/color-name/-/color-name-1.1.3.tgz"
-  "version" "1.1.3"
+color-name@~1.1.4:
+  version "1.1.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/color-name/-/color-name-1.1.4.tgz"
 
-"color-support@^1.1.2":
-  "integrity" "sha512-qiBjkpbMLO/HL68y+lh4q0/O1MZFj2RX6X/KmMa3+gJD3z+WwI1ZzDHysvqHGS3mP6mznPckpXmw1nI9cJjyRg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/color-support/-/color-support-1.1.3.tgz"
-  "version" "1.1.3"
+color-support@^1.1.2:
+  version "1.1.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/color-support/-/color-support-1.1.3.tgz"
 
-"combined-stream@^1.0.8":
-  "integrity" "sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/combined-stream/-/combined-stream-1.0.8.tgz"
-  "version" "1.0.8"
+combined-stream@^1.0.8:
+  version "1.0.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/combined-stream/-/combined-stream-1.0.8.tgz"
   dependencies:
-    "delayed-stream" "~1.0.0"
+    delayed-stream "~1.0.0"
 
-"common-tags@^1.8.0":
-  "integrity" "sha512-6P6g0uetGpW/sdyUy/iQQCbFF0kWVMSIVSyYz7Zgjcgh8mgw8PQzDNZeyZ5DQ2gM7LBoZPHmnjz8rUthkBG5tw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/common-tags/-/common-tags-1.8.0.tgz"
-  "version" "1.8.0"
+common-tags@^1.8.0:
+  version "1.8.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/common-tags/-/common-tags-1.8.0.tgz"
 
-"concat-map@0.0.1":
-  "integrity" "sha1-2Klr13/Wjfd5OnMDajug1UBdR3s="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/concat-map/-/concat-map-0.0.1.tgz"
-  "version" "0.0.1"
+concat-map@0.0.1:
+  version "0.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/concat-map/-/concat-map-0.0.1.tgz"
 
-"configstore@^5.0.1":
-  "integrity" "sha512-aMKprgk5YhBNyH25hj8wGt2+D52Sw1DRRIzqBwLp2Ya9mFmY8KPvvtvmna8SxVR9JMZ4kzMD68N22vlaRpkeFA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/configstore/-/configstore-5.0.1.tgz"
-  "version" "5.0.1"
+configstore@^5.0.1:
+  version "5.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/configstore/-/configstore-5.0.1.tgz"
   dependencies:
-    "dot-prop" "^5.2.0"
-    "graceful-fs" "^4.1.2"
-    "make-dir" "^3.0.0"
-    "unique-string" "^2.0.0"
-    "write-file-atomic" "^3.0.0"
-    "xdg-basedir" "^4.0.0"
+    dot-prop "^5.2.0"
+    graceful-fs "^4.1.2"
+    make-dir "^3.0.0"
+    unique-string "^2.0.0"
+    write-file-atomic "^3.0.0"
+    xdg-basedir "^4.0.0"
 
-"console-control-strings@^1.0.0", "console-control-strings@^1.1.0":
-  "integrity" "sha1-PXz0Rk22RG6mRL9LOVB/mFEAjo4="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/console-control-strings/-/console-control-strings-1.1.0.tgz"
-  "version" "1.1.0"
+console-control-strings@^1.0.0, console-control-strings@^1.1.0:
+  version "1.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/console-control-strings/-/console-control-strings-1.1.0.tgz"
 
-"cross-spawn@^7.0.2":
-  "integrity" "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/cross-spawn/-/cross-spawn-7.0.3.tgz"
-  "version" "7.0.3"
+cross-spawn@^7.0.2:
+  version "7.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/cross-spawn/-/cross-spawn-7.0.3.tgz"
   dependencies:
-    "path-key" "^3.1.0"
-    "shebang-command" "^2.0.0"
-    "which" "^2.0.1"
+    path-key "^3.1.0"
+    shebang-command "^2.0.0"
+    which "^2.0.1"
 
-"crypto-random-string@^2.0.0":
-  "integrity" "sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/crypto-random-string/-/crypto-random-string-2.0.0.tgz"
-  "version" "2.0.0"
+crypto-random-string@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/crypto-random-string/-/crypto-random-string-2.0.0.tgz"
 
-"debug@^2.2.0":
-  "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/debug/-/debug-2.6.9.tgz"
-  "version" "2.6.9"
+debug@4, debug@^4.1.0, debug@^4.1.1, debug@^4.3.2:
+  version "4.3.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/debug/-/debug-4.3.2.tgz"
   dependencies:
-    "ms" "2.0.0"
+    ms "2.1.2"
 
-"debug@^3.2.6":
-  "integrity" "sha512-CFjzYYAi4ThfiQvizrFQevTTXHtnCqWfe7x1AhgEscTz6ZbLbfoLRLPugTQyBth6f8ZERVUSyWHFD/7Wu4t1XQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/debug/-/debug-3.2.7.tgz"
-  "version" "3.2.7"
+debug@^2.2.0:
+  version "2.6.9"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/debug/-/debug-2.6.9.tgz"
   dependencies:
-    "ms" "^2.1.1"
+    ms "2.0.0"
 
-"debug@^4.1.0", "debug@^4.1.1", "debug@^4.3.2", "debug@4":
-  "integrity" "sha512-mOp8wKcvj7XxC78zLgw/ZA+6TSgkoE2C/ienthhRD298T7UNwAg9diBpLRxC0mOezLl4B0xV7M0cCO6P/O0Xhw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/debug/-/debug-4.3.2.tgz"
-  "version" "4.3.2"
+debug@^3.2.6:
+  version "3.2.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/debug/-/debug-3.2.7.tgz"
   dependencies:
-    "ms" "2.1.2"
+    ms "^2.1.1"
 
-"decompress-response@^3.3.0":
-  "integrity" "sha1-gKTdMjdIOEv6JICDYirt7Jgq3/M="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/decompress-response/-/decompress-response-3.3.0.tgz"
-  "version" "3.3.0"
+decompress-response@^3.3.0:
+  version "3.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/decompress-response/-/decompress-response-3.3.0.tgz"
   dependencies:
-    "mimic-response" "^1.0.0"
+    mimic-response "^1.0.0"
 
-"deep-extend@^0.6.0":
-  "integrity" "sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/deep-extend/-/deep-extend-0.6.0.tgz"
-  "version" "0.6.0"
+deep-extend@^0.6.0:
+  version "0.6.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/deep-extend/-/deep-extend-0.6.0.tgz"
 
-"deep-is@^0.1.3":
-  "integrity" "sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/deep-is/-/deep-is-0.1.4.tgz"
-  "version" "0.1.4"
+deep-is@^0.1.3:
+  version "0.1.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/deep-is/-/deep-is-0.1.4.tgz"
 
-"defer-to-connect@^1.0.1":
-  "integrity" "sha512-0ISdNousHvZT2EiFlZeZAHBUvSxmKswVCEf8hW7KWgG4a8MVEu/3Vb6uWYozkjylyCxe0JBIiRB1jV45S70WVQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/defer-to-connect/-/defer-to-connect-1.1.3.tgz"
-  "version" "1.1.3"
+defer-to-connect@^1.0.1:
+  version "1.1.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/defer-to-connect/-/defer-to-connect-1.1.3.tgz"
 
-"delayed-stream@~1.0.0":
-  "integrity" "sha1-3zrhmayt+31ECqrgsp4icrJOxhk="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/delayed-stream/-/delayed-stream-1.0.0.tgz"
-  "version" "1.0.0"
+delayed-stream@~1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/delayed-stream/-/delayed-stream-1.0.0.tgz"
 
-"delegates@^1.0.0":
-  "integrity" "sha1-hMbhWbgZBP3KWaDvRM2HDTElD5o="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/delegates/-/delegates-1.0.0.tgz"
-  "version" "1.0.0"
+delegates@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/delegates/-/delegates-1.0.0.tgz"
 
-"detect-libc@^1.0.3":
-  "integrity" "sha1-+hN8S9aY7fVc1c0CrFWfkaTEups="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/detect-libc/-/detect-libc-1.0.3.tgz"
-  "version" "1.0.3"
+detect-libc@^1.0.3:
+  version "1.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/detect-libc/-/detect-libc-1.0.3.tgz"
 
-"discord.js-commando@^0.12.3":
-  "integrity" "sha512-BNLhTnyFuNsF1TOd9JOu8tRoV1wi3G4AG3WWMc8qtfur8W0fYQ2jmi5CklKU4Q6JqFYjHkLeRMeZv3rAfDOKjQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/discord.js-commando/-/discord.js-commando-0.12.3.tgz"
-  "version" "0.12.3"
+discord.js-commando@^0.12.3:
+  version "0.12.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/discord.js-commando/-/discord.js-commando-0.12.3.tgz"
   dependencies:
-    "common-tags" "^1.8.0"
-    "emoji-regex" "^9.2.0"
-    "is-promise" "^4.0.0"
-    "require-all" "^3.0.0"
+    common-tags "^1.8.0"
+    emoji-regex "^9.2.0"
+    is-promise "^4.0.0"
+    require-all "^3.0.0"
 
-"discord.js@^12.3.1":
-  "integrity" "sha512-D3nkOa/pCkNyn6jLZnAiJApw2N9XrIsXUAdThf01i7yrEuqUmDGc7/CexVWwEcgbQR97XQ+mcnqJpmJ/92B4Aw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/discord.js/-/discord.js-12.5.3.tgz"
-  "version" "12.5.3"
+discord.js@^12.3.1:
+  version "12.5.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/discord.js/-/discord.js-12.5.3.tgz"
   dependencies:
     "@discordjs/collection" "^0.1.6"
     "@discordjs/form-data" "^3.0.1"
-    "abort-controller" "^3.0.0"
-    "node-fetch" "^2.6.1"
-    "prism-media" "^1.2.9"
-    "setimmediate" "^1.0.5"
-    "tweetnacl" "^1.0.3"
-    "ws" "^7.4.4"
+    abort-controller "^3.0.0"
+    node-fetch "^2.6.1"
+    prism-media "^1.2.9"
+    setimmediate "^1.0.5"
+    tweetnacl "^1.0.3"
+    ws "^7.4.4"
 
-"doctrine@^3.0.0":
-  "integrity" "sha512-yS+Q5i3hBf7GBkd4KG8a7eBNNWNGLTaEwwYWUijIYM7zrlYDM0BFXHjjPWlWZ1Rg7UaddZeIDmi9jF3HmqiQ2w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/doctrine/-/doctrine-3.0.0.tgz"
-  "version" "3.0.0"
+doctrine@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/doctrine/-/doctrine-3.0.0.tgz"
   dependencies:
-    "esutils" "^2.0.2"
+    esutils "^2.0.2"
 
-"dot-prop@^5.2.0":
-  "integrity" "sha512-QM8q3zDe58hqUqjraQOmzZ1LIH9SWQJTlEKCH4kJ2oQvLZk7RbQXvtDM2XEq3fwkV9CCvvH4LA0AV+ogFsBM2Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/dot-prop/-/dot-prop-5.3.0.tgz"
-  "version" "5.3.0"
+dot-prop@^5.2.0:
+  version "5.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/dot-prop/-/dot-prop-5.3.0.tgz"
   dependencies:
-    "is-obj" "^2.0.0"
+    is-obj "^2.0.0"
 
-"duplexer3@^0.1.4":
-  "integrity" "sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/duplexer3/-/duplexer3-0.1.4.tgz"
-  "version" "0.1.4"
+duplexer3@^0.1.4:
+  version "0.1.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/duplexer3/-/duplexer3-0.1.4.tgz"
 
-"emoji-regex@^8.0.0":
-  "integrity" "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/emoji-regex/-/emoji-regex-8.0.0.tgz"
-  "version" "8.0.0"
+emoji-regex@^8.0.0:
+  version "8.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/emoji-regex/-/emoji-regex-8.0.0.tgz"
 
-"emoji-regex@^9.2.0":
-  "integrity" "sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/emoji-regex/-/emoji-regex-9.2.2.tgz"
-  "version" "9.2.2"
+emoji-regex@^9.2.0:
+  version "9.2.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/emoji-regex/-/emoji-regex-9.2.2.tgz"
 
-"end-of-stream@^1.1.0":
-  "integrity" "sha512-+uw1inIHVPQoaVuHzRyXd21icM+cnt4CzD5rW+NC1wjOUSTOs+Te7FOv7AhN7vS9x/oIyhLP5PR1H+phQAHu5Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/end-of-stream/-/end-of-stream-1.4.4.tgz"
-  "version" "1.4.4"
+end-of-stream@^1.1.0:
+  version "1.4.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/end-of-stream/-/end-of-stream-1.4.4.tgz"
   dependencies:
-    "once" "^1.4.0"
+    once "^1.4.0"
 
-"enquirer@^2.3.5":
-  "integrity" "sha512-yjNnPr315/FjS4zIsUxYguYUPP2e1NK4d7E7ZOLiyYCcbFBiTMyID+2wvm2w6+pZ/odMA7cRkjhsPbltwBOrLg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/enquirer/-/enquirer-2.3.6.tgz"
-  "version" "2.3.6"
+enquirer@^2.3.5:
+  version "2.3.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/enquirer/-/enquirer-2.3.6.tgz"
   dependencies:
-    "ansi-colors" "^4.1.1"
+    ansi-colors "^4.1.1"
 
 "erlpack@github:discord/erlpack":
-  "resolved" "git+ssh://git@github.com/discord/erlpack.git#e27db8f82892bdb9b28a0547cc394d68b5d2242d"
-  "version" "0.1.3"
+  version "0.1.3"
+  resolved "git+ssh://git@github.com/discord/erlpack.git#e27db8f82892bdb9b28a0547cc394d68b5d2242d"
   dependencies:
-    "bindings" "^1.5.0"
-    "nan" "^2.14.0"
+    bindings "^1.5.0"
+    nan "^2.14.0"
 
-"escape-goat@^2.0.0":
-  "integrity" "sha512-8/uIhbG12Csjy2JEW7D9pHbreaVaS/OpN3ycnyvElTdwM5n6GY6W6e2IPemfvGZeUMqZ9A/3GqIZMgKnBhAw/Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/escape-goat/-/escape-goat-2.1.1.tgz"
-  "version" "2.1.1"
+escape-goat@^2.0.0:
+  version "2.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/escape-goat/-/escape-goat-2.1.1.tgz"
 
-"escape-string-regexp@^1.0.5":
-  "integrity" "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
-  "version" "1.0.5"
+escape-string-regexp@^1.0.5:
+  version "1.0.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
 
-"escape-string-regexp@^4.0.0":
-  "integrity" "sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz"
-  "version" "4.0.0"
+escape-string-regexp@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz"
 
-"eslint-scope@^6.0.0":
-  "integrity" "sha512-uRDL9MWmQCkaFus8RF5K9/L/2fn+80yoW3jkD53l4shjCh26fCtvJGasxjUqP5OT87SYTxCVA3BwTUzuELx9kA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-scope/-/eslint-scope-6.0.0.tgz"
-  "version" "6.0.0"
+eslint-scope@^6.0.0:
+  version "6.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-scope/-/eslint-scope-6.0.0.tgz"
   dependencies:
-    "esrecurse" "^4.3.0"
-    "estraverse" "^5.2.0"
+    esrecurse "^4.3.0"
+    estraverse "^5.2.0"
 
-"eslint-utils@^3.0.0":
-  "integrity" "sha512-uuQC43IGctw68pJA1RgbQS8/NP7rch6Cwd4j3ZBtgo4/8Flj4eGE7ZYSZRN3iq5pVUv6GPdW5Z1RFleo84uLDA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-utils/-/eslint-utils-3.0.0.tgz"
-  "version" "3.0.0"
+eslint-utils@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-utils/-/eslint-utils-3.0.0.tgz"
   dependencies:
-    "eslint-visitor-keys" "^2.0.0"
+    eslint-visitor-keys "^2.0.0"
 
-"eslint-visitor-keys@^1.0.0":
-  "integrity" "sha512-6J72N8UNa462wa/KFODt/PJ3IU60SDpC3QXC1Hjc1BXXpfL2C9R5+AU7jhe0F6GREqVMh4Juu+NY7xn+6dipUQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-visitor-keys/-/eslint-visitor-keys-1.3.0.tgz"
-  "version" "1.3.0"
+eslint-visitor-keys@^1.0.0:
+  version "1.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-visitor-keys/-/eslint-visitor-keys-1.3.0.tgz"
 
-"eslint-visitor-keys@^2.0.0":
-  "integrity" "sha512-0rSmRBzXgDzIsD6mGdJgevzgezI534Cer5L/vyMX0kHzT/jiB43jRhd9YUlMGYLQy2zprNmoT8qasCGtY+QaKw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz"
-  "version" "2.1.0"
+eslint-visitor-keys@^2.0.0:
+  version "2.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz"
 
-"eslint-visitor-keys@^3.0.0":
-  "integrity" "sha512-mJOZa35trBTb3IyRmo8xmKBZlxf+N7OnUl4+ZhJHs/r+0770Wh/LEACE2pqMGMe27G/4y8P2bYGk4J70IC5k1Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-visitor-keys/-/eslint-visitor-keys-3.0.0.tgz"
-  "version" "3.0.0"
+eslint-visitor-keys@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/eslint-visitor-keys/-/eslint-visitor-keys-3.0.0.tgz"
 
-"eslint@>= 4.12.1", "eslint@>=5", "eslint@8.0.1":
-  "integrity" "sha512-LsgcwZgQ72vZ+SMp4K6pAnk2yFDWL7Ti4pJaRvsZ0Hsw2h8ZjUIW38a9AFn2cZXdBMlScMFYYgsSp4ttFI/0bA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/eslint/-/eslint-8.0.1.tgz"
-  "version" "8.0.1"
+eslint@8.0.1:
+  version "8.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/eslint/-/eslint-8.0.1.tgz"
   dependencies:
     "@eslint/eslintrc" "^1.0.3"
     "@humanwhocodes/config-array" "^0.6.0"
-    "ajv" "^6.10.0"
-    "chalk" "^4.0.0"
-    "cross-spawn" "^7.0.2"
-    "debug" "^4.3.2"
-    "doctrine" "^3.0.0"
-    "enquirer" "^2.3.5"
-    "escape-string-regexp" "^4.0.0"
-    "eslint-scope" "^6.0.0"
-    "eslint-utils" "^3.0.0"
-    "eslint-visitor-keys" "^3.0.0"
-    "espree" "^9.0.0"
-    "esquery" "^1.4.0"
-    "esutils" "^2.0.2"
-    "fast-deep-equal" "^3.1.3"
-    "file-entry-cache" "^6.0.1"
-    "functional-red-black-tree" "^1.0.1"
-    "glob-parent" "^6.0.1"
-    "globals" "^13.6.0"
-    "ignore" "^4.0.6"
-    "import-fresh" "^3.0.0"
-    "imurmurhash" "^0.1.4"
-    "is-glob" "^4.0.0"
-    "js-yaml" "^4.1.0"
-    "json-stable-stringify-without-jsonify" "^1.0.1"
-    "levn" "^0.4.1"
-    "lodash.merge" "^4.6.2"
-    "minimatch" "^3.0.4"
-    "natural-compare" "^1.4.0"
-    "optionator" "^0.9.1"
-    "progress" "^2.0.0"
-    "regexpp" "^3.2.0"
-    "semver" "^7.2.1"
-    "strip-ansi" "^6.0.0"
-    "strip-json-comments" "^3.1.0"
-    "text-table" "^0.2.0"
-    "v8-compile-cache" "^2.0.3"
+    ajv "^6.10.0"
+    chalk "^4.0.0"
+    cross-spawn "^7.0.2"
+    debug "^4.3.2"
+    doctrine "^3.0.0"
+    enquirer "^2.3.5"
+    escape-string-regexp "^4.0.0"
+    eslint-scope "^6.0.0"
+    eslint-utils "^3.0.0"
+    eslint-visitor-keys "^3.0.0"
+    espree "^9.0.0"
+    esquery "^1.4.0"
+    esutils "^2.0.2"
+    fast-deep-equal "^3.1.3"
+    file-entry-cache "^6.0.1"
+    functional-red-black-tree "^1.0.1"
+    glob-parent "^6.0.1"
+    globals "^13.6.0"
+    ignore "^4.0.6"
+    import-fresh "^3.0.0"
+    imurmurhash "^0.1.4"
+    is-glob "^4.0.0"
+    js-yaml "^4.1.0"
+    json-stable-stringify-without-jsonify "^1.0.1"
+    levn "^0.4.1"
+    lodash.merge "^4.6.2"
+    minimatch "^3.0.4"
+    natural-compare "^1.4.0"
+    optionator "^0.9.1"
+    progress "^2.0.0"
+    regexpp "^3.2.0"
+    semver "^7.2.1"
+    strip-ansi "^6.0.0"
+    strip-json-comments "^3.1.0"
+    text-table "^0.2.0"
+    v8-compile-cache "^2.0.3"
 
-"espree@^9.0.0":
-  "integrity" "sha512-r5EQJcYZ2oaGbeR0jR0fFVijGOcwai07/690YRXLINuhmVeRY4UKSAsQPe/0BNuDgwP7Ophoc1PRsr2E3tkbdQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/espree/-/espree-9.0.0.tgz"
-  "version" "9.0.0"
+espree@^9.0.0:
+  version "9.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/espree/-/espree-9.0.0.tgz"
   dependencies:
-    "acorn" "^8.5.0"
-    "acorn-jsx" "^5.3.1"
-    "eslint-visitor-keys" "^3.0.0"
+    acorn "^8.5.0"
+    acorn-jsx "^5.3.1"
+    eslint-visitor-keys "^3.0.0"
 
-"esprima@^4.0.0":
-  "integrity" "sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/esprima/-/esprima-4.0.1.tgz"
-  "version" "4.0.1"
+esprima@^4.0.0:
+  version "4.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/esprima/-/esprima-4.0.1.tgz"
 
-"esquery@^1.4.0":
-  "integrity" "sha512-cCDispWt5vHHtwMY2YrAQ4ibFkAL8RbH5YGBnZBc90MolvvfkkQcJro/aZiAQUlQ3qgrYS6D6v8Gc5G5CQsc9w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/esquery/-/esquery-1.4.0.tgz"
-  "version" "1.4.0"
+esquery@^1.4.0:
+  version "1.4.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/esquery/-/esquery-1.4.0.tgz"
   dependencies:
-    "estraverse" "^5.1.0"
+    estraverse "^5.1.0"
 
-"esrecurse@^4.3.0":
-  "integrity" "sha512-KmfKL3b6G+RXvP8N1vr3Tq1kL/oCFgn2NYXEtqP8/L3pKapUA4G8cFVaoF3SU323CD4XypR/ffioHmkti6/Tag=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/esrecurse/-/esrecurse-4.3.0.tgz"
-  "version" "4.3.0"
+esrecurse@^4.3.0:
+  version "4.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/esrecurse/-/esrecurse-4.3.0.tgz"
   dependencies:
-    "estraverse" "^5.2.0"
+    estraverse "^5.2.0"
 
-"estraverse@^5.1.0", "estraverse@^5.2.0":
-  "integrity" "sha512-BxbNGGNm0RyRYvUdHpIwv9IWzeM9XClbOxwoATuFdOE7ZE6wHL+HQ5T8hoPM+zHvmKzzsEqhgy0GrQ5X13afiQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/estraverse/-/estraverse-5.2.0.tgz"
-  "version" "5.2.0"
+estraverse@^5.1.0, estraverse@^5.2.0:
+  version "5.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/estraverse/-/estraverse-5.2.0.tgz"
 
-"esutils@^2.0.2":
-  "integrity" "sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/esutils/-/esutils-2.0.3.tgz"
-  "version" "2.0.3"
+esutils@^2.0.2:
+  version "2.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/esutils/-/esutils-2.0.3.tgz"
 
-"event-target-shim@^5.0.0":
-  "integrity" "sha512-i/2XbnSz/uxRCU6+NdVJgKWDTM427+MqYbkQzD321DuCQJUqOuJKIA0IM2+W2xtYHdKOmZ4dR6fExsd4SXL+WQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/event-target-shim/-/event-target-shim-5.0.1.tgz"
-  "version" "5.0.1"
+event-target-shim@^5.0.0:
+  version "5.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/event-target-shim/-/event-target-shim-5.0.1.tgz"
 
-"fast-deep-equal@^3.1.1", "fast-deep-equal@^3.1.3":
-  "integrity" "sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz"
-  "version" "3.1.3"
+fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
+  version "3.1.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz"
 
-"fast-json-stable-stringify@^2.0.0":
-  "integrity" "sha512-lhd/wF+Lk98HZoTCtlVraHtfh5XYijIjalXck7saUtuanSDyLMxnHhSXEDJqHxD7msR8D0uCmqlkwjCV8xvwHw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz"
-  "version" "2.1.0"
+fast-json-stable-stringify@^2.0.0:
+  version "2.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz"
 
-"fast-levenshtein@^2.0.6":
-  "integrity" "sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
-  "version" "2.0.6"
+fast-levenshtein@^2.0.6:
+  version "2.0.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz"
 
-"file-entry-cache@^6.0.1":
-  "integrity" "sha512-7Gps/XWymbLk2QLYK4NzpMOrYjMhdIxXuIvy2QBsLE6ljuodKvdkWs/cpyJJ3CVIVpH0Oi1Hvg1ovbMzLdFBBg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
-  "version" "6.0.1"
+file-entry-cache@^6.0.1:
+  version "6.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/file-entry-cache/-/file-entry-cache-6.0.1.tgz"
   dependencies:
-    "flat-cache" "^3.0.4"
+    flat-cache "^3.0.4"
 
-"file-uri-to-path@1.0.0":
-  "integrity" "sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz"
-  "version" "1.0.0"
+file-uri-to-path@1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz"
 
-"fill-range@^7.0.1":
-  "integrity" "sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/fill-range/-/fill-range-7.0.1.tgz"
-  "version" "7.0.1"
+fill-range@^7.0.1:
+  version "7.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/fill-range/-/fill-range-7.0.1.tgz"
   dependencies:
-    "to-regex-range" "^5.0.1"
+    to-regex-range "^5.0.1"
 
-"flat-cache@^3.0.4":
-  "integrity" "sha512-dm9s5Pw7Jc0GvMYbshN6zchCA9RgQlzzEZX3vylR9IqFfS8XciblUXOKfW6SiuJ0e13eDYZoZV5wdrev7P3Nwg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/flat-cache/-/flat-cache-3.0.4.tgz"
-  "version" "3.0.4"
+flat-cache@^3.0.4:
+  version "3.0.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/flat-cache/-/flat-cache-3.0.4.tgz"
   dependencies:
-    "flatted" "^3.1.0"
-    "rimraf" "^3.0.2"
+    flatted "^3.1.0"
+    rimraf "^3.0.2"
 
-"flatted@^3.1.0":
-  "integrity" "sha512-JaTY/wtrcSyvXJl4IMFHPKyFur1sE9AUqc0QnhOaJ0CxHtAoIV8pYDzeEfAaNEtGkOfq4gr3LBFmdXW5mOQFnA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/flatted/-/flatted-3.2.2.tgz"
-  "version" "3.2.2"
+flatted@^3.1.0:
+  version "3.2.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/flatted/-/flatted-3.2.2.tgz"
 
-"follow-redirects@^1.14.0":
-  "integrity" "sha512-zwGkiSXC1MUJG/qmeIFH2HBJx9u0V46QGUe3YR1fXG8bXQxq7fLj0RjLZQ5nubr9qNJUZrH+xUcwXEoXNpfS+g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/follow-redirects/-/follow-redirects-1.14.4.tgz"
-  "version" "1.14.4"
+follow-redirects@^1.14.0:
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
 
-"fs-minipass@^2.0.0":
-  "integrity" "sha512-V/JgOLFCS+R6Vcq0slCuaeWEdNC3ouDlJMNIsacH2VtALiu9mV4LPrHc5cDl8k5aw6J8jwgWWpiTo5RYhmIzvg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/fs-minipass/-/fs-minipass-2.1.0.tgz"
-  "version" "2.1.0"
+fs-minipass@^2.0.0:
+  version "2.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/fs-minipass/-/fs-minipass-2.1.0.tgz"
   dependencies:
-    "minipass" "^3.0.0"
+    minipass "^3.0.0"
 
-"fs.realpath@^1.0.0":
-  "integrity" "sha1-FQStJSMVjKpA20onh8sBQRmU6k8="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/fs.realpath/-/fs.realpath-1.0.0.tgz"
-  "version" "1.0.0"
+fs.realpath@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/fs.realpath/-/fs.realpath-1.0.0.tgz"
 
-"function-bind@^1.1.1":
-  "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/function-bind/-/function-bind-1.1.1.tgz"
-  "version" "1.1.1"
+fsevents@~2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
 
-"functional-red-black-tree@^1.0.1":
-  "integrity" "sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz"
-  "version" "1.0.1"
+function-bind@^1.1.1:
+  version "1.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/function-bind/-/function-bind-1.1.1.tgz"
 
-"gauge@^3.0.0":
-  "integrity" "sha512-6STz6KdQgxO4S/ko+AbjlFGGdGcknluoqU+79GOFCDqqyYj5OanQf9AjxwN0jCidtT+ziPMmPSt9E4hfQ0CwIQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/gauge/-/gauge-3.0.1.tgz"
-  "version" "3.0.1"
+functional-red-black-tree@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz"
+
+gauge@^3.0.0:
+  version "3.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/gauge/-/gauge-3.0.1.tgz"
   dependencies:
-    "aproba" "^1.0.3 || ^2.0.0"
-    "color-support" "^1.1.2"
-    "console-control-strings" "^1.0.0"
-    "has-unicode" "^2.0.1"
-    "object-assign" "^4.1.1"
-    "signal-exit" "^3.0.0"
-    "string-width" "^1.0.1 || ^2.0.0"
-    "strip-ansi" "^3.0.1 || ^4.0.0"
-    "wide-align" "^1.1.2"
+    aproba "^1.0.3 || ^2.0.0"
+    color-support "^1.1.2"
+    console-control-strings "^1.0.0"
+    has-unicode "^2.0.1"
+    object-assign "^4.1.1"
+    signal-exit "^3.0.0"
+    string-width "^1.0.1 || ^2.0.0"
+    strip-ansi "^3.0.1 || ^4.0.0"
+    wide-align "^1.1.2"
 
-"get-stream@^4.1.0":
-  "integrity" "sha512-GMat4EJ5161kIy2HevLlr4luNjBgvmj413KaQA7jt4V8B4RDsfpHk7WQ9GVqfYyyx8OS/L66Kox+rJRNklLK7w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/get-stream/-/get-stream-4.1.0.tgz"
-  "version" "4.1.0"
+get-stream@^4.1.0:
+  version "4.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/get-stream/-/get-stream-4.1.0.tgz"
   dependencies:
-    "pump" "^3.0.0"
+    pump "^3.0.0"
 
-"get-stream@^5.1.0":
-  "integrity" "sha512-nBF+F1rAZVCu/p7rjzgA+Yb4lfYXrpl7a6VmJrU8wF9I1CKvP/QwPNZHnOlwbTkY6dvtFIzFMSyQXbLoTQPRpA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/get-stream/-/get-stream-5.2.0.tgz"
-  "version" "5.2.0"
+get-stream@^5.1.0:
+  version "5.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/get-stream/-/get-stream-5.2.0.tgz"
   dependencies:
-    "pump" "^3.0.0"
+    pump "^3.0.0"
 
-"glob-parent@^6.0.1":
-  "integrity" "sha512-XxwI8EOhVQgWp6iDL+3b0r86f4d6AX6zSU55HfB4ydCEuXLXc5FcYeOu+nnGftS4TEju/11rt4KJPTMgbfmv4A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/glob-parent/-/glob-parent-6.0.2.tgz"
-  "version" "6.0.2"
+glob-parent@^6.0.1:
+  version "6.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/glob-parent/-/glob-parent-6.0.2.tgz"
   dependencies:
-    "is-glob" "^4.0.3"
+    is-glob "^4.0.3"
 
-"glob-parent@~5.1.2":
-  "integrity" "sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/glob-parent/-/glob-parent-5.1.2.tgz"
-  "version" "5.1.2"
+glob-parent@~5.1.2:
+  version "5.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/glob-parent/-/glob-parent-5.1.2.tgz"
   dependencies:
-    "is-glob" "^4.0.1"
+    is-glob "^4.0.1"
 
-"glob@^7.1.3":
-  "integrity" "sha512-lmLf6gtyrPq8tTjSmrO94wBeQbFR3HbLHbuyD69wuyQkImp2hWqMGB47OX65FBkPffO641IP9jWa1z4ivqG26Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/glob/-/glob-7.2.0.tgz"
-  "version" "7.2.0"
+glob@^7.1.3:
+  version "7.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/glob/-/glob-7.2.0.tgz"
   dependencies:
-    "fs.realpath" "^1.0.0"
-    "inflight" "^1.0.4"
-    "inherits" "2"
-    "minimatch" "^3.0.4"
-    "once" "^1.3.0"
-    "path-is-absolute" "^1.0.0"
+    fs.realpath "^1.0.0"
+    inflight "^1.0.4"
+    inherits "2"
+    minimatch "^3.0.4"
+    once "^1.3.0"
+    path-is-absolute "^1.0.0"
 
-"global-dirs@^3.0.0":
-  "integrity" "sha512-v8ho2DS5RiCjftj1nD9NmnfaOzTdud7RRnVd9kFNOjqZbISlx5DQ+OrTkywgd0dIt7oFCvKetZSHoHcP3sDdiA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/global-dirs/-/global-dirs-3.0.0.tgz"
-  "version" "3.0.0"
+global-dirs@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/global-dirs/-/global-dirs-3.0.0.tgz"
   dependencies:
-    "ini" "2.0.0"
+    ini "2.0.0"
 
-"globals@^11.1.0":
-  "integrity" "sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/globals/-/globals-11.12.0.tgz"
-  "version" "11.12.0"
+globals@^11.1.0:
+  version "11.12.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/globals/-/globals-11.12.0.tgz"
 
-"globals@^13.6.0":
-  "integrity" "sha512-08/xrJ7wQjK9kkkRoI3OFUBbLx4f+6x3SGwcPvQ0QH6goFDrOU2oyAWrmh3dJezu65buo+HBMzAMQy6rovVC3g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/globals/-/globals-13.11.0.tgz"
-  "version" "13.11.0"
+globals@^13.6.0, globals@^13.9.0:
+  version "13.11.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/globals/-/globals-13.11.0.tgz"
   dependencies:
-    "type-fest" "^0.20.2"
+    type-fest "^0.20.2"
 
-"globals@^13.9.0":
-  "integrity" "sha512-08/xrJ7wQjK9kkkRoI3OFUBbLx4f+6x3SGwcPvQ0QH6goFDrOU2oyAWrmh3dJezu65buo+HBMzAMQy6rovVC3g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/globals/-/globals-13.11.0.tgz"
-  "version" "13.11.0"
-  dependencies:
-    "type-fest" "^0.20.2"
-
-"got@^9.6.0":
-  "integrity" "sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dJOEecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/got/-/got-9.6.0.tgz"
-  "version" "9.6.0"
+got@^9.6.0:
+  version "9.6.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/got/-/got-9.6.0.tgz"
   dependencies:
     "@sindresorhus/is" "^0.14.0"
     "@szmarczak/http-timer" "^1.1.2"
-    "cacheable-request" "^6.0.0"
-    "decompress-response" "^3.3.0"
-    "duplexer3" "^0.1.4"
-    "get-stream" "^4.1.0"
-    "lowercase-keys" "^1.0.1"
-    "mimic-response" "^1.0.1"
-    "p-cancelable" "^1.0.0"
-    "to-readable-stream" "^1.0.0"
-    "url-parse-lax" "^3.0.0"
+    cacheable-request "^6.0.0"
+    decompress-response "^3.3.0"
+    duplexer3 "^0.1.4"
+    get-stream "^4.1.0"
+    lowercase-keys "^1.0.1"
+    mimic-response "^1.0.1"
+    p-cancelable "^1.0.0"
+    to-readable-stream "^1.0.0"
+    url-parse-lax "^3.0.0"
 
-"graceful-fs@^4.1.2":
-  "integrity" "sha512-qkIilPUYcNhJpd33n0GBXTB1MMPp14TxEsEs0pTrsSVucApsYzW5V+Q8Qxhik6KU3evy+qkAAowTByymK0avdg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/graceful-fs/-/graceful-fs-4.2.8.tgz"
-  "version" "4.2.8"
+graceful-fs@^4.1.2:
+  version "4.2.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/graceful-fs/-/graceful-fs-4.2.8.tgz"
 
-"has-flag@^3.0.0":
-  "integrity" "sha1-tdRU3CGZriJWmfNGfloH87lVuv0="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/has-flag/-/has-flag-3.0.0.tgz"
-  "version" "3.0.0"
+has-flag@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/has-flag/-/has-flag-3.0.0.tgz"
 
-"has-flag@^4.0.0":
-  "integrity" "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/has-flag/-/has-flag-4.0.0.tgz"
-  "version" "4.0.0"
+has-flag@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/has-flag/-/has-flag-4.0.0.tgz"
 
-"has-unicode@^2.0.1":
-  "integrity" "sha1-4Ob+aijPUROIVeCG0Wkedx3iqLk="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/has-unicode/-/has-unicode-2.0.1.tgz"
-  "version" "2.0.1"
+has-unicode@^2.0.1:
+  version "2.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/has-unicode/-/has-unicode-2.0.1.tgz"
 
-"has-yarn@^2.1.0":
-  "integrity" "sha512-UqBRqi4ju7T+TqGNdqAO0PaSVGsDGJUBQvk9eUWNGRY1CFGDzYhLWoM7JQEemnlvVcv/YEmc2wNW8BC24EnUsw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/has-yarn/-/has-yarn-2.1.0.tgz"
-  "version" "2.1.0"
+has-yarn@^2.1.0:
+  version "2.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/has-yarn/-/has-yarn-2.1.0.tgz"
 
-"has@^1.0.3":
-  "integrity" "sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/has/-/has-1.0.3.tgz"
-  "version" "1.0.3"
+has@^1.0.3:
+  version "1.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/has/-/has-1.0.3.tgz"
   dependencies:
-    "function-bind" "^1.1.1"
+    function-bind "^1.1.1"
 
-"http-cache-semantics@^4.0.0":
-  "integrity" "sha512-carPklcUh7ROWRK7Cv27RPtdhYhUsela/ue5/jKzjegVvXDqM2ILE9Q2BGn9JZJh1g87cp56su/FgQSzcWS8cQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz"
-  "version" "4.1.0"
+http-cache-semantics@^4.0.0:
+  version "4.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/http-cache-semantics/-/http-cache-semantics-4.1.0.tgz"
 
-"https-proxy-agent@^5.0.0":
-  "integrity" "sha512-EkYm5BcKUGiduxzSt3Eppko+PiNWNEpa4ySk9vTC6wDsQJW9rHSa+UhGNJoRYp7bz6Ht1eaRIa6QaJqO5rCFbA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/https-proxy-agent/-/https-proxy-agent-5.0.0.tgz"
-  "version" "5.0.0"
+https-proxy-agent@^5.0.0:
+  version "5.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/https-proxy-agent/-/https-proxy-agent-5.0.0.tgz"
   dependencies:
-    "agent-base" "6"
-    "debug" "4"
+    agent-base "6"
+    debug "4"
 
-"ignore-by-default@^1.0.1":
-  "integrity" "sha1-SMptcvbGo68Aqa1K5odr44ieKwk="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ignore-by-default/-/ignore-by-default-1.0.1.tgz"
-  "version" "1.0.1"
+ignore-by-default@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ignore-by-default/-/ignore-by-default-1.0.1.tgz"
 
-"ignore@^4.0.6":
-  "integrity" "sha512-cyFDKrqc/YdcWFniJhzI42+AzS+gNwmUzOSFcRCQYwySuBBBy/KjuxWLZ/FHEH6Moq1NizMOBWyTcv8O4OZIMg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ignore/-/ignore-4.0.6.tgz"
-  "version" "4.0.6"
+ignore@^4.0.6:
+  version "4.0.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ignore/-/ignore-4.0.6.tgz"
 
-"import-fresh@^3.0.0", "import-fresh@^3.2.1":
-  "integrity" "sha512-veYYhQa+D1QBKznvhUHxb8faxlrwUnxseDAbAp457E0wLNio2bOSKnjYDhMj+YiAq61xrMGhQk9iXVk5FzgQMw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/import-fresh/-/import-fresh-3.3.0.tgz"
-  "version" "3.3.0"
+import-fresh@^3.0.0, import-fresh@^3.2.1:
+  version "3.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/import-fresh/-/import-fresh-3.3.0.tgz"
   dependencies:
-    "parent-module" "^1.0.0"
-    "resolve-from" "^4.0.0"
+    parent-module "^1.0.0"
+    resolve-from "^4.0.0"
 
-"import-lazy@^2.1.0":
-  "integrity" "sha1-BWmOPUXIjo1+nZLLBYTnfwlvPkM="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/import-lazy/-/import-lazy-2.1.0.tgz"
-  "version" "2.1.0"
+import-lazy@^2.1.0:
+  version "2.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/import-lazy/-/import-lazy-2.1.0.tgz"
 
-"imurmurhash@^0.1.4":
-  "integrity" "sha1-khi5srkoojixPcT7a21XbyMUU+o="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/imurmurhash/-/imurmurhash-0.1.4.tgz"
-  "version" "0.1.4"
+imurmurhash@^0.1.4:
+  version "0.1.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/imurmurhash/-/imurmurhash-0.1.4.tgz"
 
-"inflight@^1.0.4":
-  "integrity" "sha1-Sb1jMdfQLQwJvJEKEHW6gWW1bfk="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/inflight/-/inflight-1.0.6.tgz"
-  "version" "1.0.6"
+inflight@^1.0.4:
+  version "1.0.6"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/inflight/-/inflight-1.0.6.tgz"
   dependencies:
-    "once" "^1.3.0"
-    "wrappy" "1"
+    once "^1.3.0"
+    wrappy "1"
 
-"inherits@^2.0.3", "inherits@2":
-  "integrity" "sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/inherits/-/inherits-2.0.4.tgz"
-  "version" "2.0.4"
+inherits@2, inherits@^2.0.3:
+  version "2.0.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/inherits/-/inherits-2.0.4.tgz"
 
-"ini@~1.3.0":
-  "integrity" "sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ini/-/ini-1.3.8.tgz"
-  "version" "1.3.8"
+ini@2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ini/-/ini-2.0.0.tgz"
 
-"ini@2.0.0":
-  "integrity" "sha512-7PnF4oN3CvZF23ADhA5wRaYEQpJ8qygSkbtTXWBeXWXmEVRXK+1ITciHWwHhsjv1TmW0MgacIv6hEi5pX5NQdA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ini/-/ini-2.0.0.tgz"
-  "version" "2.0.0"
+ini@~1.3.0:
+  version "1.3.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ini/-/ini-1.3.8.tgz"
 
-"is-binary-path@~2.1.0":
-  "integrity" "sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-binary-path/-/is-binary-path-2.1.0.tgz"
-  "version" "2.1.0"
+is-binary-path@~2.1.0:
+  version "2.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-binary-path/-/is-binary-path-2.1.0.tgz"
   dependencies:
-    "binary-extensions" "^2.0.0"
+    binary-extensions "^2.0.0"
 
-"is-ci@^2.0.0":
-  "integrity" "sha512-YfJT7rkpQB0updsdHLGWrvhBJfcfzNNawYDNIyQXJz0IViGf75O8EBPKSdvw2rF+LGCsX4FZ8tcr3b19LcZq4w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-ci/-/is-ci-2.0.0.tgz"
-  "version" "2.0.0"
+is-ci@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-ci/-/is-ci-2.0.0.tgz"
   dependencies:
-    "ci-info" "^2.0.0"
+    ci-info "^2.0.0"
 
-"is-core-module@^2.2.0":
-  "integrity" "sha512-vd15qHsaqrRL7dtH6QNuy0ndJmRDrS9HAM1CAiSifNUFv4x1a0CCVsj18hJ1mShxIG6T2i1sO78MkP56r0nYRw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-core-module/-/is-core-module-2.8.0.tgz"
-  "version" "2.8.0"
+is-core-module@^2.2.0:
+  version "2.8.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-core-module/-/is-core-module-2.8.0.tgz"
   dependencies:
-    "has" "^1.0.3"
+    has "^1.0.3"
 
-"is-extglob@^2.1.1":
-  "integrity" "sha1-qIwCU1eR8C7TfHahueqXc8gz+MI="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-extglob/-/is-extglob-2.1.1.tgz"
-  "version" "2.1.1"
+is-extglob@^2.1.1:
+  version "2.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-extglob/-/is-extglob-2.1.1.tgz"
 
-"is-fullwidth-code-point@^2.0.0":
-  "integrity" "sha1-o7MKXE8ZkYMWeqq5O+764937ZU8="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz"
-  "version" "2.0.0"
+is-fullwidth-code-point@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz"
 
-"is-fullwidth-code-point@^3.0.0":
-  "integrity" "sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz"
-  "version" "3.0.0"
+is-fullwidth-code-point@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz"
 
-"is-glob@^4.0.0", "is-glob@^4.0.1", "is-glob@^4.0.3", "is-glob@~4.0.1":
-  "integrity" "sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-glob/-/is-glob-4.0.3.tgz"
-  "version" "4.0.3"
+is-glob@^4.0.0, is-glob@^4.0.1, is-glob@^4.0.3, is-glob@~4.0.1:
+  version "4.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-glob/-/is-glob-4.0.3.tgz"
   dependencies:
-    "is-extglob" "^2.1.1"
+    is-extglob "^2.1.1"
 
-"is-installed-globally@^0.4.0":
-  "integrity" "sha512-iwGqO3J21aaSkC7jWnHP/difazwS7SFeIqxv6wEtLU8Y5KlzFTjyqcSIT0d8s4+dDhKytsk9PJZ2BkS5eZwQRQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-installed-globally/-/is-installed-globally-0.4.0.tgz"
-  "version" "0.4.0"
+is-installed-globally@^0.4.0:
+  version "0.4.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-installed-globally/-/is-installed-globally-0.4.0.tgz"
   dependencies:
-    "global-dirs" "^3.0.0"
-    "is-path-inside" "^3.0.2"
+    global-dirs "^3.0.0"
+    is-path-inside "^3.0.2"
 
-"is-npm@^5.0.0":
-  "integrity" "sha512-WW/rQLOazUq+ST/bCAVBp/2oMERWLsR7OrKyt052dNDk4DHcDE0/7QSXITlmi+VBcV13DfIbysG3tZJm5RfdBA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-npm/-/is-npm-5.0.0.tgz"
-  "version" "5.0.0"
+is-npm@^5.0.0:
+  version "5.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-npm/-/is-npm-5.0.0.tgz"
 
-"is-number@^7.0.0":
-  "integrity" "sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-number/-/is-number-7.0.0.tgz"
-  "version" "7.0.0"
+is-number@^7.0.0:
+  version "7.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-number/-/is-number-7.0.0.tgz"
 
-"is-obj@^2.0.0":
-  "integrity" "sha512-drqDG3cbczxxEJRoOXcOjtdp1J/lyp1mNn0xaznRs8+muBhgQcrnbspox5X5fOw0HnMnbfDzvnEMEtqDEJEo8w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-obj/-/is-obj-2.0.0.tgz"
-  "version" "2.0.0"
+is-obj@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-obj/-/is-obj-2.0.0.tgz"
 
-"is-path-inside@^3.0.2":
-  "integrity" "sha512-Fd4gABb+ycGAmKou8eMftCupSir5lRxqf4aD/vd0cD2qc4HL07OjCeuHMr8Ro4CoMaeCKDB0/ECBOVWjTwUvPQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-path-inside/-/is-path-inside-3.0.3.tgz"
-  "version" "3.0.3"
+is-path-inside@^3.0.2:
+  version "3.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-path-inside/-/is-path-inside-3.0.3.tgz"
 
-"is-promise@^4.0.0":
-  "integrity" "sha512-hvpoI6korhJMnej285dSg6nu1+e6uxs7zG3BYAm5byqDsgJNWwxzM6z6iZiAgQR4TJ30JmBTOwqZUw3WlyH3AQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-promise/-/is-promise-4.0.0.tgz"
-  "version" "4.0.0"
+is-promise@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-promise/-/is-promise-4.0.0.tgz"
 
-"is-typedarray@^1.0.0":
-  "integrity" "sha1-5HnICFjfDBsR3dppQPlgEfzaSpo="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-typedarray/-/is-typedarray-1.0.0.tgz"
-  "version" "1.0.0"
+is-typedarray@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-typedarray/-/is-typedarray-1.0.0.tgz"
 
-"is-yarn-global@^0.3.0":
-  "integrity" "sha512-VjSeb/lHmkoyd8ryPVIKvOCn4D1koMqY+vqyjjUfc3xyKtP4dYOxM44sZrnqQSzSds3xyOrUTLTC9LVCVgLngw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/is-yarn-global/-/is-yarn-global-0.3.0.tgz"
-  "version" "0.3.0"
+is-yarn-global@^0.3.0:
+  version "0.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/is-yarn-global/-/is-yarn-global-0.3.0.tgz"
 
-"isexe@^2.0.0":
-  "integrity" "sha1-6PvzdNxVb/iUehDcsFctYz8s+hA="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/isexe/-/isexe-2.0.0.tgz"
-  "version" "2.0.0"
+isexe@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/isexe/-/isexe-2.0.0.tgz"
 
-"js-tokens@^4.0.0":
-  "integrity" "sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/js-tokens/-/js-tokens-4.0.0.tgz"
-  "version" "4.0.0"
+js-tokens@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/js-tokens/-/js-tokens-4.0.0.tgz"
 
-"js-yaml@^3.13.1":
-  "integrity" "sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/js-yaml/-/js-yaml-3.14.1.tgz"
-  "version" "3.14.1"
+js-yaml@^3.13.1:
+  version "3.14.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/js-yaml/-/js-yaml-3.14.1.tgz"
   dependencies:
-    "argparse" "^1.0.7"
-    "esprima" "^4.0.0"
+    argparse "^1.0.7"
+    esprima "^4.0.0"
 
-"js-yaml@^4.1.0":
-  "integrity" "sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/js-yaml/-/js-yaml-4.1.0.tgz"
-  "version" "4.1.0"
+js-yaml@^4.1.0:
+  version "4.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/js-yaml/-/js-yaml-4.1.0.tgz"
   dependencies:
-    "argparse" "^2.0.1"
+    argparse "^2.0.1"
 
-"jsesc@^2.5.1":
-  "integrity" "sha512-OYu7XEzjkCQ3C5Ps3QIZsQfNpqoJyZZA99wd9aWd05NCtC5pWOkShK2mkL6HXQR6/Cy2lbNdPlZBpuQHXE63gA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/jsesc/-/jsesc-2.5.2.tgz"
-  "version" "2.5.2"
+jsesc@^2.5.1:
+  version "2.5.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/jsesc/-/jsesc-2.5.2.tgz"
 
-"json-buffer@3.0.0":
-  "integrity" "sha1-Wx85evx11ne96Lz8Dkfh+aPZqJg="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/json-buffer/-/json-buffer-3.0.0.tgz"
-  "version" "3.0.0"
+json-buffer@3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/json-buffer/-/json-buffer-3.0.0.tgz"
 
-"json-schema-traverse@^0.4.1":
-  "integrity" "sha512-xbbCH5dCYU5T8LcEhhuh7HJ88HXuW3qsI3Y0zOZFKfZEHcpWiHU/Jxzk629Brsab/mMiHQti9wMP+845RPe3Vg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz"
-  "version" "0.4.1"
+json-schema-traverse@^0.4.1:
+  version "0.4.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz"
 
-"json-stable-stringify-without-jsonify@^1.0.1":
-  "integrity" "sha1-nbe1lJatPzz+8wp1FC0tkwrXJlE="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
-  "version" "1.0.1"
+json-stable-stringify-without-jsonify@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz"
 
-"keyv@^3.0.0":
-  "integrity" "sha512-9ykJ/46SN/9KPM/sichzQ7OvXyGDYKGTaDlKMGCAlg2UK8KRy4jb0d8sFc+0Tt0YYnThq8X2RZgCg74RPxgcVA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/keyv/-/keyv-3.1.0.tgz"
-  "version" "3.1.0"
+keyv@^3.0.0:
+  version "3.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/keyv/-/keyv-3.1.0.tgz"
   dependencies:
-    "json-buffer" "3.0.0"
+    json-buffer "3.0.0"
 
-"latest-version@^5.1.0":
-  "integrity" "sha512-weT+r0kTkRQdCdYCNtkMwWXQTMEswKrFBkm4ckQOMVhhqhIMI1UT2hMj+1iigIhgSZm5gTmrRXBNoGUgaTY1xA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/latest-version/-/latest-version-5.1.0.tgz"
-  "version" "5.1.0"
+latest-version@^5.1.0:
+  version "5.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/latest-version/-/latest-version-5.1.0.tgz"
   dependencies:
-    "package-json" "^6.3.0"
+    package-json "^6.3.0"
 
-"levn@^0.4.1":
-  "integrity" "sha512-+bT2uH4E5LGE7h/n3evcS/sQlJXCpIp6ym8OWJ5eV6+67Dsql/LaaT7qJBAt2rzfoa/5QBGBhxDix1dMt2kQKQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/levn/-/levn-0.4.1.tgz"
-  "version" "0.4.1"
+levn@^0.4.1:
+  version "0.4.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/levn/-/levn-0.4.1.tgz"
   dependencies:
-    "prelude-ls" "^1.2.1"
-    "type-check" "~0.4.0"
+    prelude-ls "^1.2.1"
+    type-check "~0.4.0"
 
-"lodash.merge@^4.6.2":
-  "integrity" "sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/lodash.merge/-/lodash.merge-4.6.2.tgz"
-  "version" "4.6.2"
+lodash.merge@^4.6.2:
+  version "4.6.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/lodash.merge/-/lodash.merge-4.6.2.tgz"
 
-"lowercase-keys@^1.0.0", "lowercase-keys@^1.0.1":
-  "integrity" "sha512-G2Lj61tXDnVFFOi8VZds+SoQjtQC3dgokKdDG2mTm1tx4m50NUHBOZSBwQQHyy0V12A0JTG4icfZQH+xPyh8VA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/lowercase-keys/-/lowercase-keys-1.0.1.tgz"
-  "version" "1.0.1"
+lowercase-keys@^1.0.0, lowercase-keys@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/lowercase-keys/-/lowercase-keys-1.0.1.tgz"
 
-"lowercase-keys@^2.0.0":
-  "integrity" "sha512-tqNXrS78oMOE73NMxK4EMLQsQowWf8jKooH9g7xPavRT706R6bkQJ6DY2Te7QukaZsulxa30wQ7bk0pm4XiHmA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/lowercase-keys/-/lowercase-keys-2.0.0.tgz"
-  "version" "2.0.0"
+lowercase-keys@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/lowercase-keys/-/lowercase-keys-2.0.0.tgz"
 
-"lru-cache@^6.0.0":
-  "integrity" "sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/lru-cache/-/lru-cache-6.0.0.tgz"
-  "version" "6.0.0"
+lru-cache@^6.0.0:
+  version "6.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/lru-cache/-/lru-cache-6.0.0.tgz"
   dependencies:
-    "yallist" "^4.0.0"
+    yallist "^4.0.0"
 
-"m3u8stream@^0.8.3":
-  "integrity" "sha512-sco80Db+30RvcaIOndenX6E6oQNgTiBKeJbFPc+yDXwPQIkryfboEbCvXPlBRq3mQTCVPQO93TDVlfRwqpD35w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/m3u8stream/-/m3u8stream-0.8.4.tgz"
-  "version" "0.8.4"
+m3u8stream@^0.8.3:
+  version "0.8.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/m3u8stream/-/m3u8stream-0.8.4.tgz"
   dependencies:
-    "miniget" "^4.0.0"
-    "sax" "^1.2.4"
+    miniget "^4.0.0"
+    sax "^1.2.4"
 
-"make-dir@^3.0.0", "make-dir@^3.1.0":
-  "integrity" "sha512-g3FeP20LNwhALb/6Cz6Dd4F2ngze0jz7tbzrD2wAV+o9FeNHe4rL+yK2md0J/fiSf1sa1ADhXqi5+oVwOM/eGw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/make-dir/-/make-dir-3.1.0.tgz"
-  "version" "3.1.0"
+make-dir@^3.0.0, make-dir@^3.1.0:
+  version "3.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/make-dir/-/make-dir-3.1.0.tgz"
   dependencies:
-    "semver" "^6.0.0"
+    semver "^6.0.0"
 
-"mime-db@1.50.0":
-  "integrity" "sha512-9tMZCDlYHqeERXEHO9f/hKfNXhre5dK2eE/krIvUjZbS2KPcqGDfNShIWS1uW9XOTKQKqK6qbeOci18rbfW77A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/mime-db/-/mime-db-1.50.0.tgz"
-  "version" "1.50.0"
+mime-db@1.50.0:
+  version "1.50.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/mime-db/-/mime-db-1.50.0.tgz"
 
-"mime-types@^2.1.12":
-  "integrity" "sha512-plLElXp7pRDd0bNZHw+nMd52vRYjLwQjygaNg7ddJ2uJtTlmnTCjWuPKxVu6//AdaRuME84SvLW91sIkBqGT0g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/mime-types/-/mime-types-2.1.33.tgz"
-  "version" "2.1.33"
+mime-types@^2.1.12:
+  version "2.1.33"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/mime-types/-/mime-types-2.1.33.tgz"
   dependencies:
-    "mime-db" "1.50.0"
+    mime-db "1.50.0"
 
-"mimic-response@^1.0.0", "mimic-response@^1.0.1":
-  "integrity" "sha512-j5EctnkH7amfV/q5Hgmoal1g2QHFJRraOtmx0JpIqkxhBhI/lJSl1nMpQ45hVarwNETOoWEimndZ4QK0RHxuxQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/mimic-response/-/mimic-response-1.0.1.tgz"
-  "version" "1.0.1"
+mimic-response@^1.0.0, mimic-response@^1.0.1:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/mimic-response/-/mimic-response-1.0.1.tgz"
 
-"minecraft-server-util@^3.0.2":
-  "integrity" "sha512-YOdL5gA/w1ca8rnVniFQhZMurfWRQzvk9E9yQKoF13WHRaPWXwJk3XUZ1499NqgdT5Izl5A399t0gn2pr63RHA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/minecraft-server-util/-/minecraft-server-util-3.6.1.tgz"
-  "version" "3.6.1"
+minecraft-server-util@^3.0.2:
+  version "3.6.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/minecraft-server-util/-/minecraft-server-util-3.6.1.tgz"
   dependencies:
-    "ansi-styles" "^5.0.0"
+    ansi-styles "^5.0.0"
 
-"miniget@^4.0.0", "miniget@^4.2.1":
-  "integrity" "sha512-O/DduzDR6f+oDtVype9S/Qu5hhnx73EDYGyZKwU/qN82lehFZdfhoa4DT51SpsO+8epYrB3gcRmws56ROfTIoQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/miniget/-/miniget-4.2.1.tgz"
-  "version" "4.2.1"
+miniget@^4.0.0, miniget@^4.2.1:
+  version "4.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/miniget/-/miniget-4.2.1.tgz"
 
-"minimatch@^3.0.4":
-  "integrity" "sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/minimatch/-/minimatch-3.0.4.tgz"
-  "version" "3.0.4"
+minimatch@^3.0.4:
+  version "3.0.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/minimatch/-/minimatch-3.0.4.tgz"
   dependencies:
-    "brace-expansion" "^1.1.7"
+    brace-expansion "^1.1.7"
 
-"minimist@^1.2.0":
-  "integrity" "sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/minimist/-/minimist-1.2.5.tgz"
-  "version" "1.2.5"
+minimist@^1.2.0:
+  version "1.2.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/minimist/-/minimist-1.2.5.tgz"
 
-"minipass@^3.0.0":
-  "integrity" "sha512-+8NzxD82XQoNKNrl1d/FSi+X8wAEWR+sbYAfIvub4Nz0d22plFG72CEVVaufV8PNf4qSslFTD8VMOxNVhHCjTw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/minipass/-/minipass-3.1.5.tgz"
-  "version" "3.1.5"
+minipass@^3.0.0:
+  version "3.1.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/minipass/-/minipass-3.1.5.tgz"
   dependencies:
-    "yallist" "^4.0.0"
+    yallist "^4.0.0"
 
-"minizlib@^2.1.1":
-  "integrity" "sha512-bAxsR8BVfj60DWXHE3u30oHzfl4G7khkSuPW+qvpd7jFRHm7dLxOjUk1EHACJ/hxLY8phGJ0YhYHZo7jil7Qdg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/minizlib/-/minizlib-2.1.2.tgz"
-  "version" "2.1.2"
+minizlib@^2.1.1:
+  version "2.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/minizlib/-/minizlib-2.1.2.tgz"
   dependencies:
-    "minipass" "^3.0.0"
-    "yallist" "^4.0.0"
+    minipass "^3.0.0"
+    yallist "^4.0.0"
 
-"mkdirp@^1.0.3":
-  "integrity" "sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/mkdirp/-/mkdirp-1.0.4.tgz"
-  "version" "1.0.4"
+mkdirp@^1.0.3:
+  version "1.0.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/mkdirp/-/mkdirp-1.0.4.tgz"
 
-"ms@^2.1.1", "ms@2.1.2":
-  "integrity" "sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ms/-/ms-2.1.2.tgz"
-  "version" "2.1.2"
+ms@2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ms/-/ms-2.0.0.tgz"
 
-"ms@2.0.0":
-  "integrity" "sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ms/-/ms-2.0.0.tgz"
-  "version" "2.0.0"
+ms@2.1.2, ms@^2.1.1:
+  version "2.1.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ms/-/ms-2.1.2.tgz"
 
-"nan@^2.14.0":
-  "integrity" "sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/nan/-/nan-2.15.0.tgz"
-  "version" "2.15.0"
+nan@^2.14.0:
+  version "2.15.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/nan/-/nan-2.15.0.tgz"
 
-"natural-compare@^1.4.0":
-  "integrity" "sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/natural-compare/-/natural-compare-1.4.0.tgz"
-  "version" "1.4.0"
+natural-compare@^1.4.0:
+  version "1.4.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/natural-compare/-/natural-compare-1.4.0.tgz"
 
-"node-addon-api@^3.2.1":
-  "integrity" "sha512-mmcei9JghVNDYydghQmeDX8KoAm0FAiYyIcUt/N4nhyAipB17pllZQDOJD2fotxABnt4Mdz+dKTO7eftLg4d0A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/node-addon-api/-/node-addon-api-3.2.1.tgz"
-  "version" "3.2.1"
+node-addon-api@^4.0.0:
+  version "4.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/node-addon-api/-/node-addon-api-4.2.0.tgz"
 
-"node-addon-api@^4.0.0":
-  "integrity" "sha512-eazsqzwG2lskuzBqCGPi7Ac2UgOoMz8JVOXVhTvvPDYhthvNpefx8jWD8Np7Gv+2Sz0FlPWZk0nJV0z598Wn8Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/node-addon-api/-/node-addon-api-4.2.0.tgz"
-  "version" "4.2.0"
-
-"node-fetch@^2.6.1":
-  "integrity" "sha512-mmlIVHJEu5rnIxgEgez6b9GgWXbkZj5YZ7fx+2r94a2E+Uirsp6HsPTPlomfdHtpt/B0cdKviwkoaM6pyvUOpQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/node-fetch/-/node-fetch-2.6.5.tgz"
-  "version" "2.6.5"
+node-fetch@^2.6.1:
+  version "2.6.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/node-fetch/-/node-fetch-2.6.5.tgz"
   dependencies:
-    "whatwg-url" "^5.0.0"
+    whatwg-url "^5.0.0"
 
-"node-gyp-build@^4.3.0":
-  "integrity" "sha512-iWjXZvmboq0ja1pUGULQBexmxq8CV4xBhX7VDOTbL7ZR4FOowwY/VOtRxBN/yKxmdGoIp4j5ysNT4u3S2pDQ3Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/node-gyp-build/-/node-gyp-build-4.3.0.tgz"
-  "version" "4.3.0"
+node-gyp-build@^4.3.0:
+  version "4.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/node-gyp-build/-/node-gyp-build-4.3.0.tgz"
 
-"nodemon@^2.0.4":
-  "integrity" "sha512-UMXMpsZsv1UXUttCn6gv8eQPhn6DR4BW+txnL3IN5IHqrCwcrT/yWHfL35UsClGXknTH79r5xbu+6J1zNHuSyA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/nodemon/-/nodemon-2.0.13.tgz"
-  "version" "2.0.13"
+nodemon@^2.0.4:
+  version "2.0.13"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/nodemon/-/nodemon-2.0.13.tgz"
   dependencies:
-    "chokidar" "^3.2.2"
-    "debug" "^3.2.6"
-    "ignore-by-default" "^1.0.1"
-    "minimatch" "^3.0.4"
-    "pstree.remy" "^1.1.7"
-    "semver" "^5.7.1"
-    "supports-color" "^5.5.0"
-    "touch" "^3.1.0"
-    "undefsafe" "^2.0.3"
-    "update-notifier" "^5.1.0"
+    chokidar "^3.2.2"
+    debug "^3.2.6"
+    ignore-by-default "^1.0.1"
+    minimatch "^3.0.4"
+    pstree.remy "^1.1.7"
+    semver "^5.7.1"
+    supports-color "^5.5.0"
+    touch "^3.1.0"
+    undefsafe "^2.0.3"
+    update-notifier "^5.1.0"
 
-"nopt@^5.0.0":
-  "integrity" "sha512-Tbj67rffqceeLpcRXrT7vKAN8CwfPeIBgM7E6iBkmKLV7bEMwpGgYLGv0jACUsECaa/vuxP0IjEont6umdMgtQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/nopt/-/nopt-5.0.0.tgz"
-  "version" "5.0.0"
+nopt@^5.0.0:
+  version "5.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/nopt/-/nopt-5.0.0.tgz"
   dependencies:
-    "abbrev" "1"
+    abbrev "1"
 
-"nopt@~1.0.10":
-  "integrity" "sha1-bd0hvSoxQXuScn3Vhfim83YI6+4="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/nopt/-/nopt-1.0.10.tgz"
-  "version" "1.0.10"
+nopt@~1.0.10:
+  version "1.0.10"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/nopt/-/nopt-1.0.10.tgz"
   dependencies:
-    "abbrev" "1"
+    abbrev "1"
 
-"normalize-path@^3.0.0", "normalize-path@~3.0.0":
-  "integrity" "sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/normalize-path/-/normalize-path-3.0.0.tgz"
-  "version" "3.0.0"
+normalize-path@^3.0.0, normalize-path@~3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/normalize-path/-/normalize-path-3.0.0.tgz"
 
-"normalize-url@^4.1.0":
-  "integrity" "sha512-9UZCFRHQdNrfTpGg8+1INIg93B6zE0aXMVFkw1WFwvO4SlZywU6aLg5Of0Ap/PgcbSw4LNxvMWXMeugwMCX0AA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/normalize-url/-/normalize-url-4.5.1.tgz"
-  "version" "4.5.1"
+normalize-url@^4.1.0:
+  version "4.5.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/normalize-url/-/normalize-url-4.5.1.tgz"
 
-"npmlog@^5.0.0":
-  "integrity" "sha512-AqZtDUWOMKs1G/8lwylVjrdYgqA4d9nu8hc+0gzRxlDb1I10+FHBGMXs6aiQHFdCUUlqH99MUMuLfzWDNDtfxw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/npmlog/-/npmlog-5.0.1.tgz"
-  "version" "5.0.1"
+npmlog@^5.0.0:
+  version "5.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/npmlog/-/npmlog-5.0.1.tgz"
   dependencies:
-    "are-we-there-yet" "^2.0.0"
-    "console-control-strings" "^1.1.0"
-    "gauge" "^3.0.0"
-    "set-blocking" "^2.0.0"
+    are-we-there-yet "^2.0.0"
+    console-control-strings "^1.1.0"
+    gauge "^3.0.0"
+    set-blocking "^2.0.0"
 
-"object-assign@^4.1.1":
-  "integrity" "sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/object-assign/-/object-assign-4.1.1.tgz"
-  "version" "4.1.1"
+object-assign@^4.1.1:
+  version "4.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/object-assign/-/object-assign-4.1.1.tgz"
 
-"once@^1.3.0", "once@^1.3.1", "once@^1.4.0":
-  "integrity" "sha1-WDsap3WWHUsROsF9nFC6753Xa9E="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/once/-/once-1.4.0.tgz"
-  "version" "1.4.0"
+once@^1.3.0, once@^1.3.1, once@^1.4.0:
+  version "1.4.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/once/-/once-1.4.0.tgz"
   dependencies:
-    "wrappy" "1"
+    wrappy "1"
 
-"optionator@^0.9.1":
-  "integrity" "sha512-74RlY5FCnhq4jRxVUPKDaRwrVNXMqsGsiW6AJw4XK8hmtm10wC0ypZBLw5IIp85NZMr91+qd1RvvENwg7jjRFw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/optionator/-/optionator-0.9.1.tgz"
-  "version" "0.9.1"
+optionator@^0.9.1:
+  version "0.9.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/optionator/-/optionator-0.9.1.tgz"
   dependencies:
-    "deep-is" "^0.1.3"
-    "fast-levenshtein" "^2.0.6"
-    "levn" "^0.4.1"
-    "prelude-ls" "^1.2.1"
-    "type-check" "^0.4.0"
-    "word-wrap" "^1.2.3"
+    deep-is "^0.1.3"
+    fast-levenshtein "^2.0.6"
+    levn "^0.4.1"
+    prelude-ls "^1.2.1"
+    type-check "^0.4.0"
+    word-wrap "^1.2.3"
 
-"p-cancelable@^1.0.0":
-  "integrity" "sha512-s73XxOZ4zpt1edZYZzvhqFa6uvQc1vwUa0K0BdtIZgQMAJj9IbebH+JkgKZc9h+B05PKHLOTl4ajG1BmNrVZlw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/p-cancelable/-/p-cancelable-1.1.0.tgz"
-  "version" "1.1.0"
+p-cancelable@^1.0.0:
+  version "1.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/p-cancelable/-/p-cancelable-1.1.0.tgz"
 
-"package-json@^6.3.0":
-  "integrity" "sha512-k3bdm2n25tkyxcjSKzB5x8kfVxlMdgsbPr0GkZcwHsLpba6cBjqCt1KlcChKEvxHIcTB1FVMuwoijZ26xex5MQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/package-json/-/package-json-6.5.0.tgz"
-  "version" "6.5.0"
+package-json@^6.3.0:
+  version "6.5.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/package-json/-/package-json-6.5.0.tgz"
   dependencies:
-    "got" "^9.6.0"
-    "registry-auth-token" "^4.0.0"
-    "registry-url" "^5.0.0"
-    "semver" "^6.2.0"
+    got "^9.6.0"
+    registry-auth-token "^4.0.0"
+    registry-url "^5.0.0"
+    semver "^6.2.0"
 
-"packet-reader@1.0.0":
-  "integrity" "sha512-HAKu/fG3HpHFO0AA8WE8q2g+gBJaZ9MG7fcKk+IJPLTGAD6Psw4443l+9DGRbOIh3/aXr7Phy0TjilYivJo5XQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/packet-reader/-/packet-reader-1.0.0.tgz"
-  "version" "1.0.0"
+packet-reader@1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/packet-reader/-/packet-reader-1.0.0.tgz"
 
-"parent-module@^1.0.0":
-  "integrity" "sha512-GQ2EWRpQV8/o+Aw8YqtfZZPfNRWZYkbidE9k5rpl/hC3vtHHBfGm2Ifi6qWV+coDGkrUKZAxE3Lot5kcsRlh+g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/parent-module/-/parent-module-1.0.1.tgz"
-  "version" "1.0.1"
+parent-module@^1.0.0:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/parent-module/-/parent-module-1.0.1.tgz"
   dependencies:
-    "callsites" "^3.0.0"
+    callsites "^3.0.0"
 
-"path-is-absolute@^1.0.0":
-  "integrity" "sha1-F0uSaHNVNP+8es5r9TpanhtcX18="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
-  "version" "1.0.1"
+path-is-absolute@^1.0.0:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
 
-"path-key@^3.1.0":
-  "integrity" "sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/path-key/-/path-key-3.1.1.tgz"
-  "version" "3.1.1"
+path-key@^3.1.0:
+  version "3.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/path-key/-/path-key-3.1.1.tgz"
 
-"path-parse@^1.0.6":
-  "integrity" "sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/path-parse/-/path-parse-1.0.7.tgz"
-  "version" "1.0.7"
+path-parse@^1.0.6:
+  version "1.0.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/path-parse/-/path-parse-1.0.7.tgz"
 
-"pg-connection-string@^2.5.0":
-  "integrity" "sha512-r5o/V/ORTA6TmUnyWZR9nCj1klXCO2CEKNRlVuJptZe85QuhFayC7WeMic7ndayT5IRIR0S0xFxFi2ousartlQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pg-connection-string/-/pg-connection-string-2.5.0.tgz"
-  "version" "2.5.0"
+pg-connection-string@^2.5.0:
+  version "2.5.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pg-connection-string/-/pg-connection-string-2.5.0.tgz"
 
-"pg-int8@1.0.1":
-  "integrity" "sha512-WCtabS6t3c8SkpDBUlb1kjOs7l66xsGdKpIPZsg4wR+B3+u9UAum2odSsF9tnvxg80h4ZxLWMy4pRjOsFIqQpw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pg-int8/-/pg-int8-1.0.1.tgz"
-  "version" "1.0.1"
+pg-int8@1.0.1:
+  version "1.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pg-int8/-/pg-int8-1.0.1.tgz"
 
-"pg-pool@^3.4.1":
-  "integrity" "sha512-TVHxR/gf3MeJRvchgNHxsYsTCHQ+4wm3VIHSS19z8NC0+gioEhq1okDY1sm/TYbfoP6JLFx01s0ShvZ3puP/iQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pg-pool/-/pg-pool-3.4.1.tgz"
-  "version" "3.4.1"
+pg-pool@^3.4.1:
+  version "3.4.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pg-pool/-/pg-pool-3.4.1.tgz"
 
-"pg-protocol@^1.5.0":
-  "integrity" "sha512-muRttij7H8TqRNu/DxrAJQITO4Ac7RmX3Klyr/9mJEOBeIpgnF8f9jAfRz5d3XwQZl5qBjF9gLsUtMPJE0vezQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pg-protocol/-/pg-protocol-1.5.0.tgz"
-  "version" "1.5.0"
+pg-protocol@^1.5.0:
+  version "1.5.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pg-protocol/-/pg-protocol-1.5.0.tgz"
 
-"pg-types@^2.1.0":
-  "integrity" "sha512-qTAAlrEsl8s4OiEQY69wDvcMIdQN6wdz5ojQiOy6YRMuynxenON0O5oCpJI6lshc6scgAY8qvJ2On/p+CXY0GA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pg-types/-/pg-types-2.2.0.tgz"
-  "version" "2.2.0"
+pg-types@^2.1.0:
+  version "2.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pg-types/-/pg-types-2.2.0.tgz"
   dependencies:
-    "pg-int8" "1.0.1"
-    "postgres-array" "~2.0.0"
-    "postgres-bytea" "~1.0.0"
-    "postgres-date" "~1.0.4"
-    "postgres-interval" "^1.1.0"
+    pg-int8 "1.0.1"
+    postgres-array "~2.0.0"
+    postgres-bytea "~1.0.0"
+    postgres-date "~1.0.4"
+    postgres-interval "^1.1.0"
 
-"pg@^8.3.3", "pg@>=8.0":
-  "integrity" "sha512-7bdYcv7V6U3KAtWjpQJJBww0UEsWuh4yQ/EjNf2HeO/NnvKjpvhEIe/A/TleP6wtmSKnUnghs5A9jUoK6iDdkA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pg/-/pg-8.7.1.tgz"
-  "version" "8.7.1"
+pg@^8.3.3:
+  version "8.7.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pg/-/pg-8.7.1.tgz"
   dependencies:
-    "buffer-writer" "2.0.0"
-    "packet-reader" "1.0.0"
-    "pg-connection-string" "^2.5.0"
-    "pg-pool" "^3.4.1"
-    "pg-protocol" "^1.5.0"
-    "pg-types" "^2.1.0"
-    "pgpass" "1.x"
+    buffer-writer "2.0.0"
+    packet-reader "1.0.0"
+    pg-connection-string "^2.5.0"
+    pg-pool "^3.4.1"
+    pg-protocol "^1.5.0"
+    pg-types "^2.1.0"
+    pgpass "1.x"
 
-"pgpass@1.x":
-  "integrity" "sha512-YmuA56alyBq7M59vxVBfPJrGSozru8QAdoNlWuW3cz8l+UX3cWge0vTvjKhsSHSJpo3Bom8/Mm6hf0TR5GY0+w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pgpass/-/pgpass-1.0.4.tgz"
-  "version" "1.0.4"
+pgpass@1.x:
+  version "1.0.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pgpass/-/pgpass-1.0.4.tgz"
   dependencies:
-    "split2" "^3.1.1"
+    split2 "^3.1.1"
 
-"picomatch@^2.0.4", "picomatch@^2.2.1":
-  "integrity" "sha512-lY1Q/PiJGC2zOv/z391WOTD+Z02bCgsFfvxoXXf6h7kv9o+WmsmzYqrAwY63sNgOxE4xEdq0WyUnXfKeBrSvYw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/picomatch/-/picomatch-2.3.0.tgz"
-  "version" "2.3.0"
+picomatch@^2.0.4, picomatch@^2.2.1:
+  version "2.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/picomatch/-/picomatch-2.3.0.tgz"
 
-"postgres-array@~2.0.0":
-  "integrity" "sha512-VpZrUqU5A69eQyW2c5CA1jtLecCsN2U/bD6VilrFDWq5+5UIEVO7nazS3TEcHf1zuPYO/sqGvUvW62g86RXZuA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-array/-/postgres-array-2.0.0.tgz"
-  "version" "2.0.0"
+postgres-array@~2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-array/-/postgres-array-2.0.0.tgz"
 
-"postgres-bytea@~1.0.0":
-  "integrity" "sha1-AntTPAqokOJtFy1Hz5zOzFIazTU="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-bytea/-/postgres-bytea-1.0.0.tgz"
-  "version" "1.0.0"
+postgres-bytea@~1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-bytea/-/postgres-bytea-1.0.0.tgz"
 
-"postgres-date@~1.0.4":
-  "integrity" "sha512-suDmjLVQg78nMK2UZ454hAG+OAW+HQPZ6n++TNDUX+L0+uUlLywnoxJKDou51Zm+zTCjrCl0Nq6J9C5hP9vK/Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-date/-/postgres-date-1.0.7.tgz"
-  "version" "1.0.7"
+postgres-date@~1.0.4:
+  version "1.0.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-date/-/postgres-date-1.0.7.tgz"
 
-"postgres-interval@^1.1.0":
-  "integrity" "sha512-9ZhXKM/rw350N1ovuWHbGxnGh/SNJ4cnxHiM0rxE4VN41wsg8P8zWn9hv/buK00RP4WvlOyr/RBDiptyxVbkZQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-interval/-/postgres-interval-1.2.0.tgz"
-  "version" "1.2.0"
+postgres-interval@^1.1.0:
+  version "1.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/postgres-interval/-/postgres-interval-1.2.0.tgz"
   dependencies:
-    "xtend" "^4.0.0"
+    xtend "^4.0.0"
 
-"prelude-ls@^1.2.1":
-  "integrity" "sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/prelude-ls/-/prelude-ls-1.2.1.tgz"
-  "version" "1.2.1"
+prelude-ls@^1.2.1:
+  version "1.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/prelude-ls/-/prelude-ls-1.2.1.tgz"
 
-"prepend-http@^2.0.0":
-  "integrity" "sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/prepend-http/-/prepend-http-2.0.0.tgz"
-  "version" "2.0.0"
+prepend-http@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/prepend-http/-/prepend-http-2.0.0.tgz"
 
-"prettier@2.4.1":
-  "integrity" "sha512-9fbDAXSBcc6Bs1mZrDYb3XKzDLm4EXXL9sC1LqKP5rZkT6KRr/rf9amVUcODVXgguK/isJz0d0hP72WeaKWsvA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/prettier/-/prettier-2.4.1.tgz"
-  "version" "2.4.1"
+prettier@2.4.1:
+  version "2.4.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/prettier/-/prettier-2.4.1.tgz"
 
-"prism-media@^1.2.9":
-  "integrity" "sha512-L6UsGHcT6i4wrQhFF1aPK+MNYgjRqR2tUoIqEY+CG1NqVkMjPRKzS37j9f8GiYPlD6wG9ruBj+q5Ax+bH8Ik1g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/prism-media/-/prism-media-1.3.2.tgz"
-  "version" "1.3.2"
+prism-media@^1.2.9, prism-media@^1.3.1:
+  version "1.3.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/prism-media/-/prism-media-1.3.2.tgz"
 
-"prism-media@^1.3.1":
-  "integrity" "sha512-L6UsGHcT6i4wrQhFF1aPK+MNYgjRqR2tUoIqEY+CG1NqVkMjPRKzS37j9f8GiYPlD6wG9ruBj+q5Ax+bH8Ik1g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/prism-media/-/prism-media-1.3.2.tgz"
-  "version" "1.3.2"
+progress@^2.0.0:
+  version "2.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/progress/-/progress-2.0.3.tgz"
 
-"progress@^2.0.0":
-  "integrity" "sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/progress/-/progress-2.0.3.tgz"
-  "version" "2.0.3"
+pstree.remy@^1.1.7:
+  version "1.1.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pstree.remy/-/pstree.remy-1.1.8.tgz"
 
-"pstree.remy@^1.1.7":
-  "integrity" "sha512-77DZwxQmxKnu3aR542U+X8FypNzbfJ+C5XQDk3uWjWxn6151aIMGthWYRXTqT1E5oJvg+ljaa2OJi+VfvCOQ8w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pstree.remy/-/pstree.remy-1.1.8.tgz"
-  "version" "1.1.8"
-
-"pump@^3.0.0":
-  "integrity" "sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pump/-/pump-3.0.0.tgz"
-  "version" "3.0.0"
+pump@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pump/-/pump-3.0.0.tgz"
   dependencies:
-    "end-of-stream" "^1.1.0"
-    "once" "^1.3.1"
+    end-of-stream "^1.1.0"
+    once "^1.3.1"
 
-"punycode@^2.1.0":
-  "integrity" "sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/punycode/-/punycode-2.1.1.tgz"
-  "version" "2.1.1"
+punycode@^2.1.0:
+  version "2.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/punycode/-/punycode-2.1.1.tgz"
 
-"pupa@^2.1.1":
-  "integrity" "sha512-l1jNAspIBSFqbT+y+5FosojNpVpF94nlI+wDUpqP9enwOTfHx9f0gh5nB96vl+6yTpsJsypeNrwfzPrKuHB41A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/pupa/-/pupa-2.1.1.tgz"
-  "version" "2.1.1"
+pupa@^2.1.1:
+  version "2.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/pupa/-/pupa-2.1.1.tgz"
   dependencies:
-    "escape-goat" "^2.0.0"
+    escape-goat "^2.0.0"
 
-"rc@^1.2.8":
-  "integrity" "sha512-y3bGgqKj3QBdxLbLkomlohkvsA8gdAiUQlSBJnBhfn+BPxg4bc62d8TcBW15wavDfgexCgccckhcZvywyQYPOw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/rc/-/rc-1.2.8.tgz"
-  "version" "1.2.8"
+rc@^1.2.8:
+  version "1.2.8"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/rc/-/rc-1.2.8.tgz"
   dependencies:
-    "deep-extend" "^0.6.0"
-    "ini" "~1.3.0"
-    "minimist" "^1.2.0"
-    "strip-json-comments" "~2.0.1"
+    deep-extend "^0.6.0"
+    ini "~1.3.0"
+    minimist "^1.2.0"
+    strip-json-comments "~2.0.1"
 
-"readable-stream@^3.0.0", "readable-stream@^3.6.0":
-  "integrity" "sha512-BViHy7LKeTz4oNnkcLJ+lVSL6vpiFeX6/d3oSH8zCW7UxP2onchk+vTGB143xuFjHS3deTgkKoXXymXqymiIdA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/readable-stream/-/readable-stream-3.6.0.tgz"
-  "version" "3.6.0"
+readable-stream@^3.0.0, readable-stream@^3.6.0:
+  version "3.6.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/readable-stream/-/readable-stream-3.6.0.tgz"
   dependencies:
-    "inherits" "^2.0.3"
-    "string_decoder" "^1.1.1"
-    "util-deprecate" "^1.0.1"
+    inherits "^2.0.3"
+    string_decoder "^1.1.1"
+    util-deprecate "^1.0.1"
 
-"readdirp@~3.6.0":
-  "integrity" "sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/readdirp/-/readdirp-3.6.0.tgz"
-  "version" "3.6.0"
+readdirp@~3.6.0:
+  version "3.6.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/readdirp/-/readdirp-3.6.0.tgz"
   dependencies:
-    "picomatch" "^2.2.1"
+    picomatch "^2.2.1"
 
-"regexpp@^3.2.0":
-  "integrity" "sha512-pq2bWo9mVD43nbts2wGv17XLiNLya+GklZ8kaDLV2Z08gDCsGpnKn9BFMepvWuHCbyVvY7J5o5+BVvoQbmlJLg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/regexpp/-/regexpp-3.2.0.tgz"
-  "version" "3.2.0"
+regexpp@^3.2.0:
+  version "3.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/regexpp/-/regexpp-3.2.0.tgz"
 
-"registry-auth-token@^4.0.0":
-  "integrity" "sha512-6gkSb4U6aWJB4SF2ZvLb76yCBjcvufXBqvvEx1HbmKPkutswjW1xNVRY0+daljIYRbogN7O0etYSlbiaEQyMyw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/registry-auth-token/-/registry-auth-token-4.2.1.tgz"
-  "version" "4.2.1"
+registry-auth-token@^4.0.0:
+  version "4.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/registry-auth-token/-/registry-auth-token-4.2.1.tgz"
   dependencies:
-    "rc" "^1.2.8"
+    rc "^1.2.8"
 
-"registry-url@^5.0.0":
-  "integrity" "sha512-8acYXXTI0AkQv6RAOjE3vOaIXZkT9wo4LOFbBKYQEEnnMNBpKqdUrI6S4NT0KPIo/WVvJ5tE/X5LF/TQUf0ekw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/registry-url/-/registry-url-5.1.0.tgz"
-  "version" "5.1.0"
+registry-url@^5.0.0:
+  version "5.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/registry-url/-/registry-url-5.1.0.tgz"
   dependencies:
-    "rc" "^1.2.8"
+    rc "^1.2.8"
 
-"require-all@^3.0.0":
-  "integrity" "sha1-Rz1JcEvjEBFc4ST3c4Ox69hnExI="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/require-all/-/require-all-3.0.0.tgz"
-  "version" "3.0.0"
+require-all@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/require-all/-/require-all-3.0.0.tgz"
 
-"resolve-from@^4.0.0":
-  "integrity" "sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/resolve-from/-/resolve-from-4.0.0.tgz"
-  "version" "4.0.0"
+resolve-from@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/resolve-from/-/resolve-from-4.0.0.tgz"
 
-"resolve@^1.12.0":
-  "integrity" "sha512-wENBPt4ySzg4ybFQW2TT1zMQucPK95HSh/nq2CFTZVOGut2+pQvSsgtda4d26YrYcr067wjbmzOG8byDPBX63A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/resolve/-/resolve-1.20.0.tgz"
-  "version" "1.20.0"
+resolve@^1.12.0:
+  version "1.20.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/resolve/-/resolve-1.20.0.tgz"
   dependencies:
-    "is-core-module" "^2.2.0"
-    "path-parse" "^1.0.6"
+    is-core-module "^2.2.0"
+    path-parse "^1.0.6"
 
-"responselike@^1.0.2":
-  "integrity" "sha1-kYcg7ztjHFZCvgaPFa3lpG9Loec="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/responselike/-/responselike-1.0.2.tgz"
-  "version" "1.0.2"
+responselike@^1.0.2:
+  version "1.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/responselike/-/responselike-1.0.2.tgz"
   dependencies:
-    "lowercase-keys" "^1.0.0"
+    lowercase-keys "^1.0.0"
 
-"rimraf@^3.0.2":
-  "integrity" "sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/rimraf/-/rimraf-3.0.2.tgz"
-  "version" "3.0.2"
+rimraf@^3.0.2:
+  version "3.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/rimraf/-/rimraf-3.0.2.tgz"
   dependencies:
-    "glob" "^7.1.3"
+    glob "^7.1.3"
 
-"safe-buffer@~5.2.0":
-  "integrity" "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/safe-buffer/-/safe-buffer-5.2.1.tgz"
-  "version" "5.2.1"
+safe-buffer@~5.2.0:
+  version "5.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/safe-buffer/-/safe-buffer-5.2.1.tgz"
 
-"sax@^1.1.3", "sax@^1.2.4":
-  "integrity" "sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/sax/-/sax-1.2.4.tgz"
-  "version" "1.2.4"
+sax@^1.1.3, sax@^1.2.4:
+  version "1.2.4"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/sax/-/sax-1.2.4.tgz"
 
-"semver-diff@^3.1.1":
-  "integrity" "sha512-GX0Ix/CJcHyB8c4ykpHGIAvLyOwOobtM/8d+TQkAd81/bEjgPHrfba41Vpesr7jX/t8Uh+R3EX9eAS5be+jQYg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/semver-diff/-/semver-diff-3.1.1.tgz"
-  "version" "3.1.1"
+semver-diff@^3.1.1:
+  version "3.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/semver-diff/-/semver-diff-3.1.1.tgz"
   dependencies:
-    "semver" "^6.3.0"
+    semver "^6.3.0"
 
-"semver@^5.7.1":
-  "integrity" "sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-5.7.1.tgz"
-  "version" "5.7.1"
+semver@^5.7.1:
+  version "5.7.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-5.7.1.tgz"
 
-"semver@^6.0.0":
-  "integrity" "sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-6.3.0.tgz"
-  "version" "6.3.0"
+semver@^6.0.0, semver@^6.2.0, semver@^6.3.0:
+  version "6.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-6.3.0.tgz"
 
-"semver@^6.2.0":
-  "integrity" "sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-6.3.0.tgz"
-  "version" "6.3.0"
-
-"semver@^6.3.0":
-  "integrity" "sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-6.3.0.tgz"
-  "version" "6.3.0"
-
-"semver@^7.2.1", "semver@^7.3.4", "semver@^7.3.5":
-  "integrity" "sha512-PoeGJYh8HK4BTO/a9Tf6ZG3veo/A7ZVsYrSA6J8ny9nb3B1VrpkuN+z9OE5wfE5p6H4LchYZsegiQgbJD94ZFQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-7.3.5.tgz"
-  "version" "7.3.5"
+semver@^7.2.1, semver@^7.3.4, semver@^7.3.5:
+  version "7.3.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/semver/-/semver-7.3.5.tgz"
   dependencies:
-    "lru-cache" "^6.0.0"
+    lru-cache "^6.0.0"
 
-"set-blocking@^2.0.0":
-  "integrity" "sha1-BF+XgtARrppoA93TgrJDkrPYkPc="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/set-blocking/-/set-blocking-2.0.0.tgz"
-  "version" "2.0.0"
+set-blocking@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/set-blocking/-/set-blocking-2.0.0.tgz"
 
-"setimmediate@^1.0.5":
-  "integrity" "sha1-KQy7Iy4waULX1+qbg3Mqt4VvgoU="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/setimmediate/-/setimmediate-1.0.5.tgz"
-  "version" "1.0.5"
+setimmediate@^1.0.5:
+  version "1.0.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/setimmediate/-/setimmediate-1.0.5.tgz"
 
-"shebang-command@^2.0.0":
-  "integrity" "sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/shebang-command/-/shebang-command-2.0.0.tgz"
-  "version" "2.0.0"
+shebang-command@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/shebang-command/-/shebang-command-2.0.0.tgz"
   dependencies:
-    "shebang-regex" "^3.0.0"
+    shebang-regex "^3.0.0"
 
-"shebang-regex@^3.0.0":
-  "integrity" "sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/shebang-regex/-/shebang-regex-3.0.0.tgz"
-  "version" "3.0.0"
+shebang-regex@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/shebang-regex/-/shebang-regex-3.0.0.tgz"
 
-"signal-exit@^3.0.0", "signal-exit@^3.0.2":
-  "integrity" "sha512-KWcOiKeQj6ZyXx7zq4YxSMgHRlod4czeBQZrPb8OKcohcqAXShm7E20kEMle9WBt26hFcAf0qLOcp5zmY7kOqQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/signal-exit/-/signal-exit-3.0.5.tgz"
-  "version" "3.0.5"
+signal-exit@^3.0.0, signal-exit@^3.0.2:
+  version "3.0.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/signal-exit/-/signal-exit-3.0.5.tgz"
 
-"simpleyt@^1.0.5":
-  "integrity" "sha512-nxFSLE51z41TD3qOedr506hQnMgxotxUnFJJPkm1jnKsM6GD09sba6GBqbmQelkr4clRg8Tucmt5cYYRahlwng=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/simpleyt/-/simpleyt-1.1.1.tgz"
-  "version" "1.1.1"
+simpleyt@^1.0.5:
+  version "1.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/simpleyt/-/simpleyt-1.1.1.tgz"
   dependencies:
-    "miniget" "^4.2.1"
+    miniget "^4.2.1"
 
-"source-map@^0.5.0":
-  "integrity" "sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/source-map/-/source-map-0.5.7.tgz"
-  "version" "0.5.7"
+source-map@^0.5.0:
+  version "0.5.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/source-map/-/source-map-0.5.7.tgz"
 
-"split2@^3.1.1":
-  "integrity" "sha512-9NThjpgZnifTkJpzTZ7Eue85S49QwpNhZTq6GRJwObb6jnLFNGB7Qm73V5HewTROPyxD0C29xqmaI68bQtV+hg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/split2/-/split2-3.2.2.tgz"
-  "version" "3.2.2"
+split2@^3.1.1:
+  version "3.2.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/split2/-/split2-3.2.2.tgz"
   dependencies:
-    "readable-stream" "^3.0.0"
+    readable-stream "^3.0.0"
 
-"sprintf-js@~1.0.2":
-  "integrity" "sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/sprintf-js/-/sprintf-js-1.0.3.tgz"
-  "version" "1.0.3"
-
-"string_decoder@^1.1.1":
-  "integrity" "sha512-hkRX8U1WjJFd8LsDJ2yQ/wWWxaopEsABU1XfkM8A+j0+85JAGppt16cr1Whg6KIbb4okU6Mql6BOj+uup/wKeA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/string_decoder/-/string_decoder-1.3.0.tgz"
-  "version" "1.3.0"
-  dependencies:
-    "safe-buffer" "~5.2.0"
+sprintf-js@~1.0.2:
+  version "1.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/sprintf-js/-/sprintf-js-1.0.3.tgz"
 
 "string-width@^1.0.1 || ^2.0.0", "string-width@^1.0.2 || 2":
-  "integrity" "sha512-nOqH59deCq9SRHlxq1Aw85Jnt4w6KvLKqWVik6oA9ZklXLNIOlqg4F2yrT1MVaTjAqvVwdfeZ7w7aCvJD7ugkw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/string-width/-/string-width-2.1.1.tgz"
-  "version" "2.1.1"
+  version "2.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/string-width/-/string-width-2.1.1.tgz"
   dependencies:
-    "is-fullwidth-code-point" "^2.0.0"
-    "strip-ansi" "^4.0.0"
+    is-fullwidth-code-point "^2.0.0"
+    strip-ansi "^4.0.0"
 
-"string-width@^4.0.0":
-  "integrity" "sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/string-width/-/string-width-4.2.3.tgz"
-  "version" "4.2.3"
+string-width@^4.0.0, string-width@^4.1.0, string-width@^4.2.2:
+  version "4.2.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/string-width/-/string-width-4.2.3.tgz"
   dependencies:
-    "emoji-regex" "^8.0.0"
-    "is-fullwidth-code-point" "^3.0.0"
-    "strip-ansi" "^6.0.1"
+    emoji-regex "^8.0.0"
+    is-fullwidth-code-point "^3.0.0"
+    strip-ansi "^6.0.1"
 
-"string-width@^4.1.0":
-  "integrity" "sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/string-width/-/string-width-4.2.3.tgz"
-  "version" "4.2.3"
+string_decoder@^1.1.1:
+  version "1.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/string_decoder/-/string_decoder-1.3.0.tgz"
   dependencies:
-    "emoji-regex" "^8.0.0"
-    "is-fullwidth-code-point" "^3.0.0"
-    "strip-ansi" "^6.0.1"
+    safe-buffer "~5.2.0"
 
-"string-width@^4.2.2":
-  "integrity" "sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/string-width/-/string-width-4.2.3.tgz"
-  "version" "4.2.3"
+"strip-ansi@^3.0.1 || ^4.0.0", strip-ansi@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/strip-ansi/-/strip-ansi-4.0.0.tgz"
   dependencies:
-    "emoji-regex" "^8.0.0"
-    "is-fullwidth-code-point" "^3.0.0"
-    "strip-ansi" "^6.0.1"
+    ansi-regex "^3.0.0"
 
-"strip-ansi@^3.0.1 || ^4.0.0":
-  "integrity" "sha1-qEeQIusaw2iocTibY1JixQXuNo8="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/strip-ansi/-/strip-ansi-4.0.0.tgz"
-  "version" "4.0.0"
+strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  version "6.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/strip-ansi/-/strip-ansi-6.0.1.tgz"
   dependencies:
-    "ansi-regex" "^3.0.0"
+    ansi-regex "^5.0.1"
 
-"strip-ansi@^4.0.0":
-  "integrity" "sha1-qEeQIusaw2iocTibY1JixQXuNo8="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/strip-ansi/-/strip-ansi-4.0.0.tgz"
-  "version" "4.0.0"
+strip-json-comments@^3.1.0, strip-json-comments@^3.1.1:
+  version "3.1.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/strip-json-comments/-/strip-json-comments-3.1.1.tgz"
+
+strip-json-comments@~2.0.1:
+  version "2.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/strip-json-comments/-/strip-json-comments-2.0.1.tgz"
+
+supports-color@^5.3.0, supports-color@^5.5.0:
+  version "5.5.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/supports-color/-/supports-color-5.5.0.tgz"
   dependencies:
-    "ansi-regex" "^3.0.0"
+    has-flag "^3.0.0"
 
-"strip-ansi@^6.0.0", "strip-ansi@^6.0.1":
-  "integrity" "sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/strip-ansi/-/strip-ansi-6.0.1.tgz"
-  "version" "6.0.1"
+supports-color@^7.1.0:
+  version "7.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/supports-color/-/supports-color-7.2.0.tgz"
   dependencies:
-    "ansi-regex" "^5.0.1"
+    has-flag "^4.0.0"
 
-"strip-json-comments@^3.1.0", "strip-json-comments@^3.1.1":
-  "integrity" "sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/strip-json-comments/-/strip-json-comments-3.1.1.tgz"
-  "version" "3.1.1"
-
-"strip-json-comments@~2.0.1":
-  "integrity" "sha1-PFMZQukIwml8DsNEhYwobHygpgo="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/strip-json-comments/-/strip-json-comments-2.0.1.tgz"
-  "version" "2.0.1"
-
-"supports-color@^5.3.0", "supports-color@^5.5.0":
-  "integrity" "sha512-QjVjwdXIt408MIiAqCX4oUKsgU2EqAGzs2Ppkm4aQYbjm+ZEWEcW4SfFNTr4uMNZma0ey4f5lgLrkB0aX0QMow=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/supports-color/-/supports-color-5.5.0.tgz"
-  "version" "5.5.0"
+tar@^6.1.8:
+  version "6.1.11"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/tar/-/tar-6.1.11.tgz"
   dependencies:
-    "has-flag" "^3.0.0"
+    chownr "^2.0.0"
+    fs-minipass "^2.0.0"
+    minipass "^3.0.0"
+    minizlib "^2.1.1"
+    mkdirp "^1.0.3"
+    yallist "^4.0.0"
 
-"supports-color@^7.1.0":
-  "integrity" "sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/supports-color/-/supports-color-7.2.0.tgz"
-  "version" "7.2.0"
+text-table@^0.2.0:
+  version "0.2.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/text-table/-/text-table-0.2.0.tgz"
+
+to-fast-properties@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
+
+to-readable-stream@^1.0.0:
+  version "1.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/to-readable-stream/-/to-readable-stream-1.0.0.tgz"
+
+to-regex-range@^5.0.1:
+  version "5.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/to-regex-range/-/to-regex-range-5.0.1.tgz"
   dependencies:
-    "has-flag" "^4.0.0"
+    is-number "^7.0.0"
 
-"tar@^6.1.8":
-  "integrity" "sha512-an/KZQzQUkZCkuoAA64hM92X0Urb6VpRhAFllDzz44U2mcD5scmT3zBc4VgVpkugF580+DQn8eAFSyoQt0tznA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/tar/-/tar-6.1.11.tgz"
-  "version" "6.1.11"
+touch@^3.1.0:
+  version "3.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/touch/-/touch-3.1.0.tgz"
   dependencies:
-    "chownr" "^2.0.0"
-    "fs-minipass" "^2.0.0"
-    "minipass" "^3.0.0"
-    "minizlib" "^2.1.1"
-    "mkdirp" "^1.0.3"
-    "yallist" "^4.0.0"
+    nopt "~1.0.10"
 
-"text-table@^0.2.0":
-  "integrity" "sha1-f17oI66AUgfACvLfSoTsP8+lcLQ="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/text-table/-/text-table-0.2.0.tgz"
-  "version" "0.2.0"
+tr46@~0.0.3:
+  version "0.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/tr46/-/tr46-0.0.3.tgz"
 
-"to-fast-properties@^2.0.0":
-  "integrity" "sha1-3F5pjL0HkmW8c+A3doGk5Og/YW4="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
-  "version" "2.0.0"
+tweetnacl@^1.0.3:
+  version "1.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/tweetnacl/-/tweetnacl-1.0.3.tgz"
 
-"to-readable-stream@^1.0.0":
-  "integrity" "sha512-Iq25XBt6zD5npPhlLVXGFN3/gyR2/qODcKNNyTMd4vbm39HUaOiAM4PMq0eMVC/Tkxz+Zjdsc55g9yyz+Yq00Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/to-readable-stream/-/to-readable-stream-1.0.0.tgz"
-  "version" "1.0.0"
-
-"to-regex-range@^5.0.1":
-  "integrity" "sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/to-regex-range/-/to-regex-range-5.0.1.tgz"
-  "version" "5.0.1"
+type-check@^0.4.0, type-check@~0.4.0:
+  version "0.4.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/type-check/-/type-check-0.4.0.tgz"
   dependencies:
-    "is-number" "^7.0.0"
+    prelude-ls "^1.2.1"
 
-"touch@^3.1.0":
-  "integrity" "sha512-WBx8Uy5TLtOSRtIq+M03/sKDrXCLHxwDcquSP2c43Le03/9serjQBIztjRz6FkJez9D/hleyAXTBGLwwZUw9lA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/touch/-/touch-3.1.0.tgz"
-  "version" "3.1.0"
+type-fest@^0.20.2:
+  version "0.20.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/type-fest/-/type-fest-0.20.2.tgz"
+
+typedarray-to-buffer@^3.1.5:
+  version "3.1.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/typedarray-to-buffer/-/typedarray-to-buffer-3.1.5.tgz"
   dependencies:
-    "nopt" "~1.0.10"
+    is-typedarray "^1.0.0"
 
-"tr46@~0.0.3":
-  "integrity" "sha1-gYT9NH2snNwYWZLzpmIuFLnZq2o="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/tr46/-/tr46-0.0.3.tgz"
-  "version" "0.0.3"
-
-"tweetnacl@^1.0.3":
-  "integrity" "sha512-6rt+RN7aOi1nGMyC4Xa5DdYiukl2UWCbcJft7YhxReBGQD7OAM8Pbxw6YMo4r2diNEA8FEmu32YOn9rhaiE5yw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/tweetnacl/-/tweetnacl-1.0.3.tgz"
-  "version" "1.0.3"
-
-"type-check@^0.4.0", "type-check@~0.4.0":
-  "integrity" "sha512-XleUoc9uwGXqjWwXaUTZAmzMcFZ5858QA2vvx1Ur5xIcixXIP+8LnFDgRplU30us6teqdlskFfu+ae4K79Ooew=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/type-check/-/type-check-0.4.0.tgz"
-  "version" "0.4.0"
+undefsafe@^2.0.3:
+  version "2.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/undefsafe/-/undefsafe-2.0.3.tgz"
   dependencies:
-    "prelude-ls" "^1.2.1"
+    debug "^2.2.0"
 
-"type-fest@^0.20.2":
-  "integrity" "sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/type-fest/-/type-fest-0.20.2.tgz"
-  "version" "0.20.2"
-
-"typedarray-to-buffer@^3.1.5":
-  "integrity" "sha512-zdu8XMNEDepKKR+XYOXAVPtWui0ly0NtohUscw+UmaHiAWT8hrV1rr//H6V+0DvJ3OQ19S979M0laLfX8rm82Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/typedarray-to-buffer/-/typedarray-to-buffer-3.1.5.tgz"
-  "version" "3.1.5"
+unique-string@^2.0.0:
+  version "2.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/unique-string/-/unique-string-2.0.0.tgz"
   dependencies:
-    "is-typedarray" "^1.0.0"
+    crypto-random-string "^2.0.0"
 
-"undefsafe@^2.0.3":
-  "integrity" "sha512-nrXZwwXrD/T/JXeygJqdCO6NZZ1L66HrxM/Z7mIq2oPanoN0F1nLx3lwJMu6AwJY69hdixaFQOuoYsMjE5/C2A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/undefsafe/-/undefsafe-2.0.3.tgz"
-  "version" "2.0.3"
+update-notifier@^5.1.0:
+  version "5.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/update-notifier/-/update-notifier-5.1.0.tgz"
   dependencies:
-    "debug" "^2.2.0"
+    boxen "^5.0.0"
+    chalk "^4.1.0"
+    configstore "^5.0.1"
+    has-yarn "^2.1.0"
+    import-lazy "^2.1.0"
+    is-ci "^2.0.0"
+    is-installed-globally "^0.4.0"
+    is-npm "^5.0.0"
+    is-yarn-global "^0.3.0"
+    latest-version "^5.1.0"
+    pupa "^2.1.1"
+    semver "^7.3.4"
+    semver-diff "^3.1.1"
+    xdg-basedir "^4.0.0"
 
-"unique-string@^2.0.0":
-  "integrity" "sha512-uNaeirEPvpZWSgzwsPGtU2zVSTrn/8L5q/IexZmH0eH6SA73CmAA5U4GwORTxQAZs95TAXLNqeLoPPNO5gZfWg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/unique-string/-/unique-string-2.0.0.tgz"
-  "version" "2.0.0"
+uri-js@^4.2.2:
+  version "4.4.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/uri-js/-/uri-js-4.4.1.tgz"
   dependencies:
-    "crypto-random-string" "^2.0.0"
+    punycode "^2.1.0"
 
-"update-notifier@^5.1.0":
-  "integrity" "sha512-ItnICHbeMh9GqUy31hFPrD1kcuZ3rpxDZbf4KUDavXwS0bW5m7SLbDQpGX3UYr072cbrF5hFUs3r5tUsPwjfHw=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/update-notifier/-/update-notifier-5.1.0.tgz"
-  "version" "5.1.0"
+url-parse-lax@^3.0.0:
+  version "3.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/url-parse-lax/-/url-parse-lax-3.0.0.tgz"
   dependencies:
-    "boxen" "^5.0.0"
-    "chalk" "^4.1.0"
-    "configstore" "^5.0.1"
-    "has-yarn" "^2.1.0"
-    "import-lazy" "^2.1.0"
-    "is-ci" "^2.0.0"
-    "is-installed-globally" "^0.4.0"
-    "is-npm" "^5.0.0"
-    "is-yarn-global" "^0.3.0"
-    "latest-version" "^5.1.0"
-    "pupa" "^2.1.1"
-    "semver" "^7.3.4"
-    "semver-diff" "^3.1.1"
-    "xdg-basedir" "^4.0.0"
+    prepend-http "^2.0.0"
 
-"uri-js@^4.2.2":
-  "integrity" "sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/uri-js/-/uri-js-4.4.1.tgz"
-  "version" "4.4.1"
+utf-8-validate@^5.0.7:
+  version "5.0.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/utf-8-validate/-/utf-8-validate-5.0.7.tgz"
   dependencies:
-    "punycode" "^2.1.0"
+    node-gyp-build "^4.3.0"
 
-"url-parse-lax@^3.0.0":
-  "integrity" "sha1-FrXK/Afb42dsGxmZF3gj1lA6yww="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/url-parse-lax/-/url-parse-lax-3.0.0.tgz"
-  "version" "3.0.0"
+util-deprecate@^1.0.1:
+  version "1.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/util-deprecate/-/util-deprecate-1.0.2.tgz"
+
+v8-compile-cache@^2.0.3:
+  version "2.3.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz"
+
+webidl-conversions@^3.0.0:
+  version "3.0.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
+
+whatwg-url@^5.0.0:
+  version "5.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/whatwg-url/-/whatwg-url-5.0.0.tgz"
   dependencies:
-    "prepend-http" "^2.0.0"
+    tr46 "~0.0.3"
+    webidl-conversions "^3.0.0"
 
-"utf-8-validate@^5.0.2", "utf-8-validate@^5.0.7":
-  "integrity" "sha512-vLt1O5Pp+flcArHGIyKEQq883nBt8nN8tVBcoL0qUXj2XT1n7p70yGIq2VK98I5FdZ1YHc0wk/koOnHjnXWk1Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/utf-8-validate/-/utf-8-validate-5.0.7.tgz"
-  "version" "5.0.7"
+which@^2.0.1:
+  version "2.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/which/-/which-2.0.2.tgz"
   dependencies:
-    "node-gyp-build" "^4.3.0"
+    isexe "^2.0.0"
 
-"util-deprecate@^1.0.1":
-  "integrity" "sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/util-deprecate/-/util-deprecate-1.0.2.tgz"
-  "version" "1.0.2"
-
-"v8-compile-cache@^2.0.3":
-  "integrity" "sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/v8-compile-cache/-/v8-compile-cache-2.3.0.tgz"
-  "version" "2.3.0"
-
-"webidl-conversions@^3.0.0":
-  "integrity" "sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
-  "version" "3.0.1"
-
-"whatwg-url@^5.0.0":
-  "integrity" "sha1-lmRU6HZUYuN2RNNib2dCzotwll0="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/whatwg-url/-/whatwg-url-5.0.0.tgz"
-  "version" "5.0.0"
+wide-align@^1.1.2:
+  version "1.1.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/wide-align/-/wide-align-1.1.3.tgz"
   dependencies:
-    "tr46" "~0.0.3"
-    "webidl-conversions" "^3.0.0"
+    string-width "^1.0.2 || 2"
 
-"which@^2.0.1":
-  "integrity" "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/which/-/which-2.0.2.tgz"
-  "version" "2.0.2"
+widest-line@^3.1.0:
+  version "3.1.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/widest-line/-/widest-line-3.1.0.tgz"
   dependencies:
-    "isexe" "^2.0.0"
+    string-width "^4.0.0"
 
-"wide-align@^1.1.2":
-  "integrity" "sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/wide-align/-/wide-align-1.1.3.tgz"
-  "version" "1.1.3"
+word-wrap@^1.2.3:
+  version "1.2.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/word-wrap/-/word-wrap-1.2.3.tgz"
+
+wrap-ansi@^7.0.0:
+  version "7.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/wrap-ansi/-/wrap-ansi-7.0.0.tgz"
   dependencies:
-    "string-width" "^1.0.2 || 2"
+    ansi-styles "^4.0.0"
+    string-width "^4.1.0"
+    strip-ansi "^6.0.0"
 
-"widest-line@^3.1.0":
-  "integrity" "sha512-NsmoXalsWVDMGupxZ5R08ka9flZjjiLvHVAWYOKtiKM8ujtZWr9cRffak+uSE48+Ob8ObalXpwyeUiyDD6QFgg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/widest-line/-/widest-line-3.1.0.tgz"
-  "version" "3.1.0"
+wrappy@1:
+  version "1.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/wrappy/-/wrappy-1.0.2.tgz"
+
+write-file-atomic@^3.0.0:
+  version "3.0.3"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/write-file-atomic/-/write-file-atomic-3.0.3.tgz"
   dependencies:
-    "string-width" "^4.0.0"
+    imurmurhash "^0.1.4"
+    is-typedarray "^1.0.0"
+    signal-exit "^3.0.2"
+    typedarray-to-buffer "^3.1.5"
 
-"word-wrap@^1.2.3":
-  "integrity" "sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/word-wrap/-/word-wrap-1.2.3.tgz"
-  "version" "1.2.3"
+ws@^7.4.4:
+  version "7.5.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ws/-/ws-7.5.5.tgz"
 
-"wrap-ansi@^7.0.0":
-  "integrity" "sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/wrap-ansi/-/wrap-ansi-7.0.0.tgz"
-  "version" "7.0.0"
-  dependencies:
-    "ansi-styles" "^4.0.0"
-    "string-width" "^4.1.0"
-    "strip-ansi" "^6.0.0"
+xdg-basedir@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/xdg-basedir/-/xdg-basedir-4.0.0.tgz"
 
-"wrappy@1":
-  "integrity" "sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/wrappy/-/wrappy-1.0.2.tgz"
-  "version" "1.0.2"
+xtend@^4.0.0:
+  version "4.0.2"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/xtend/-/xtend-4.0.2.tgz"
 
-"write-file-atomic@^3.0.0":
-  "integrity" "sha512-AvHcyZ5JnSfq3ioSyjrBkH9yW4m7Ayk8/9My/DD9onKeu/94fwrMocemO2QAJFAlnnDN+ZDS+ZjAR5ua1/PV/Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/write-file-atomic/-/write-file-atomic-3.0.3.tgz"
-  "version" "3.0.3"
-  dependencies:
-    "imurmurhash" "^0.1.4"
-    "is-typedarray" "^1.0.0"
-    "signal-exit" "^3.0.2"
-    "typedarray-to-buffer" "^3.1.5"
+yallist@^4.0.0:
+  version "4.0.0"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/yallist/-/yallist-4.0.0.tgz"
 
-"ws@^7.4.4":
-  "integrity" "sha512-BAkMFcAzl8as1G/hArkxOxq3G7pjUqQ3gzYbLL0/5zNkph70e+lCoxBGnm6AW1+/aiNeV4fnKqZ8m4GZewmH2w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ws/-/ws-7.5.5.tgz"
-  "version" "7.5.5"
+yt-playlist-scraper@^1.0.4:
+  version "1.2.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/yt-playlist-scraper/-/yt-playlist-scraper-1.2.1.tgz"
 
-"xdg-basedir@^4.0.0":
-  "integrity" "sha512-PSNhEJDejZYV7h50BohL09Er9VaIefr2LMAf3OEmpCkjOi34eYyQYAXUTjEQtZJTKcF0E2UKTh+osDLsgNim9Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/xdg-basedir/-/xdg-basedir-4.0.0.tgz"
-  "version" "4.0.0"
-
-"xtend@^4.0.0":
-  "integrity" "sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/xtend/-/xtend-4.0.2.tgz"
-  "version" "4.0.2"
-
-"yallist@^4.0.0":
-  "integrity" "sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/yallist/-/yallist-4.0.0.tgz"
-  "version" "4.0.0"
-
-"yt-playlist-scraper@^1.0.4":
-  "integrity" "sha512-FqRFBLCMvFcNuOr9v00SNt6Ee/nRQP0feSdtqTRhXmzo/IpyxfwSjAxY9RwQC8IzdRNebBYECXEc4G74fkgZ8Q=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/yt-playlist-scraper/-/yt-playlist-scraper-1.2.1.tgz"
-  "version" "1.2.1"
-
-"ytdl-core-discord@^1.2.3":
-  "integrity" "sha512-KW8zYY35jRSkxZTEQtT9EiR2exFwYKhCE8QZbRg5Ge9a0YWDDhBOixSdWb8Cn41B1uHhz8FR15E4E/k0kHNX3w=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ytdl-core-discord/-/ytdl-core-discord-1.3.1.tgz"
-  "version" "1.3.1"
+ytdl-core-discord@^1.2.3:
+  version "1.3.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ytdl-core-discord/-/ytdl-core-discord-1.3.1.tgz"
   dependencies:
     "@types/node" "^15.12.2"
-    "prism-media" "^1.3.1"
-    "ytdl-core" "^4.8.2"
+    prism-media "^1.3.1"
+    ytdl-core "^4.8.2"
 
-"ytdl-core@^4.8.2":
-  "integrity" "sha512-6Jbp5RDhUEozlaJQAR+l8oV8AHsx3WUXxSyPxzE6wOIAaLql7Hjiy0ZM58wZoyj1YEenlEPjEqcJIjKYKxvHtQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ytdl-core/-/ytdl-core-4.9.1.tgz"
-  "version" "4.9.1"
+ytdl-core@^4.8.2:
+  version "4.9.1"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ytdl-core/-/ytdl-core-4.9.1.tgz"
   dependencies:
-    "m3u8stream" "^0.8.3"
-    "miniget" "^4.0.0"
-    "sax" "^1.1.3"
+    m3u8stream "^0.8.3"
+    miniget "^4.0.0"
+    sax "^1.1.3"
 
-"ytfps@^1.0.5":
-  "integrity" "sha512-zYaYvSh/DfacpCVgOkxlSV5Yt872SOkqw8qlwM0DvGz0+C81TDUeRNnPQ1tszV53pAaTowsOXS7ijCSiPI8MMQ=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/ytfps/-/ytfps-1.0.5.tgz"
-  "version" "1.0.5"
+ytfps@^1.0.5:
+  version "1.0.5"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/ytfps/-/ytfps-1.0.5.tgz"
   dependencies:
-    "axios" "^0.21.1"
+    axios "^0.21.1"
 
-"zlib-sync@^0.1.7":
-  "integrity" "sha512-UmciU6ZrIwtwPC8noMzq+kGMdiWwNRZ3wC0SbED4Ew5Ikqx14MqDPRs/Pbk+3rZPh5SzsOgUBs1WRE0iieddpg=="
-  "resolved" "http://registry.nexus.azi.srv.br/repository/npm-group/zlib-sync/-/zlib-sync-0.1.7.tgz"
-  "version" "0.1.7"
+zlib-sync@^0.1.7:
+  version "0.1.7"
+  resolved "http://registry.nexus.azi.srv.br/repository/npm-group/zlib-sync/-/zlib-sync-0.1.7.tgz"
   dependencies:
-    "nan" "^2.14.0"
+    nan "^2.14.0"
